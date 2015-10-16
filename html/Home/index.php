@@ -26,13 +26,12 @@ img{
 <h1>Tigard High School Technology Team</h1>
 <div class="maint">
 Tigard high has one of the largest and most diverse technology teams in the state. The students compete in many events throughout the year.
-We compete in programming and robotics, with our team consisting of over fifty members. The Robotics portion of our team includes four FTC (4097, 3965, 3058 and 750) and two smaller FRC teams wrapped into one!
-Our FRC team has split into two smaller teams each with their own robot design and programming language. FTC is still plugging away on Cascade Effect, this years challenge.
+We compete in programming and robotics, with our team consisting of over fifty members. The Robotics portion of our team includes four FTC (4097, 3965, 3058 and 750) and two FRC teams. We recently formed a SeaPerch team and will be competing this year. We also introduced a League of Legends program. So far we have five teams competing online on the North American server, high school division. They are competing for prize money.
+Our FRC team has split into two smaller teams in order to tackle our next big event, BunnyBots. The division of labor will give us a great head start to this years challenge.
 <br/><br/>
 
 <br/><br/>
-Tigard also has a very expansive Information Technology course selection. With over six Microsoft certifications offered, the students leave with plenty of training.
-A student that took advantage of this is Reza Fouladian. He is a chief IT student that found his way into the Tigard Times. He was on page two of the times in an article about his experience here. With a whopping five certifications, Reza found himself a job for when he graduates
+Tigard also has a very expansive Information Technology course selection. With over six Microsoft certifications offered, the students leave with plenty of training. With over sixty certifications already earned by students this fall. We are looking forward to a very succesfull year this year.
 <br/></br>
 <img src="../../image/mentor_logo.gif" width="33%"/>
 <img src="../../image/Lam_logo.png" width="33%"/>
