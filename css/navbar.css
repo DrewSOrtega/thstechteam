@@ -1,0 +1,135 @@
+.navbuttHome {
+float:left;
+display:block;
+height:20px;
+width:19%;
+font-weight:bold;
+color:#FFFFFF;
+background-color:#003300;
+text-align:center;
+padding:4px;
+margin:auto;
+overflow: hidden;
+text-decoration:none;
+text-transform:uppercase;
+transition-property: height;
+transition-duration: .5s;
+-webkit-transition-property: height; /* Safari */
+-webkit-transition-duration: .5s;
+	}
+.navbuttHome:hover{
+background-color: #006400;
+height: 100px;
+	}
+.navbuttFRC {
+float:left;
+display:block;
+height:20px;
+width:19%;
+font-weight:bold;
+color:#FFFFFF;
+background-color:#003300;
+text-align:center;
+padding:4px;
+margin:auto;
+overflow: hidden;
+transition-property: height;
+transition-duration: .5s;
+-webkit-transition-property: height; /* Safari */
+-webkit-transition-duration: .5s;
+	}
+.navbuttFRC:hover{
+background-color: #006400;
+height: 100px;
+	}
+.navbuttFTC {
+float:left;
+display:block;
+height:20px;
+width:19%;
+font-weight:bold;
+color:#FFFFFF;
+background-color:#003300;
+text-align:center;
+padding:4px;
+margin:auto;
+overflow: hidden;
+text-decoration:none;
+text-transform:uppercase;
+transition-property: height;
+transition-duration: .5s;
+-webkit-transition-property: height; /* Safari */
+-webkit-transition-duration: .5s;
+	}
+.navbuttFTC:hover{
+background-color: #006400;
+height: 170px;
+	}
+.navbuttProgramming {
+float:left;
+display:block;
+height:20px;
+width:19%;
+font-weight:bold;
+color:#FFFFFF;
+background-color:#003300;
+text-align:center;
+padding:4px;
+margin:auto;
+overflow: hidden;
+text-decoration:none;
+text-transform:uppercase;
+transition-property: height;
+transition-duration: .5s;
+-webkit-transition-property: height; /* Safari */
+-webkit-transition-duration: .5s;
+	}
+.navbuttProgramming:hover{
+background-color: #006400;
+height: 140px;
+	}
+.navbuttLoL {
+float:left;
+display:block;
+height:20px;
+width:19%;
+font-weight:bold;
+color:#FFFFFF;
+background-color:#003300;
+text-align:center;
+padding:4px;
+margin:auto;
+overflow: hidden;
+text-decoration:none;
+text-transform:uppercase;
+transition-property: height;
+transition-duration: .5s;
+-webkit-transition-property: height; /* Safari */
+-webkit-transition-duration: .5s;
+	}
+.navbuttLoL:hover{
+background-color: #006400;
+height: 210px;
+	}
+.navbar {
+	height:28px; 
+	width:100%;
+	background-color:#003300;
+	text-align:center;
+	margin:auto;
+	z-index: 6;
+	}
+.linkage {
+	color: #FFF;
+	font-weight: bold;
+	text-decoration: none;
+	}
+.background {
+	width:100%;
+	left:0px;
+	top:0px;
+	padding:auto;
+	margin:auto;
+	text-align:center;
+	background-color:#003300
+	}
