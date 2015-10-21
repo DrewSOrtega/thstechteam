@@ -6,11 +6,29 @@
 <meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
 <title>3058</title>
 <meta http-equiv="Content-Language" content="en-us" />
-<meta name="author" content="Your Name Goes Here" />
+<meta name="FTC Team 3058" content="Dukelow" />
 <style type="text/css" media="all">
 </style>
 </head>
 <body>
 <?php include('menu.php'); ?>
+		<div id="content">
+			<h2>Team 3058</h2>
+			<ul id="team">
+				<li>Jaun Andreos</li>
+				<li>Emma Barbee</li>
+				<li>Jan Carlson</li>
+				<li>Zack Carter</li>
+				<li>Reed Colgrove</li>
+				<li>Jason Ettenberger</li>
+				<li>Payton Johnson</li>
+				<li>Ryan Kirkpatrick</li>
+				<li>Timothy Peel</li>
+				<li>Nodica Peel</li>
+				<li>James Shea</li>
+				<li id="coach">Coaches: Vacant</li>
+			</ul>
+			<br />
+		</div>
 </body>
 </html>
