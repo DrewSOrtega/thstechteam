@@ -6,7 +6,7 @@
 <meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
 <title>FTC Team 4097</title>
 <meta http-equiv="Content-Language" content="en-us" />
-<meta name="author" content="Your Name Goes Here" />
+<meta name="author" content="Dukelow" />
 <style type="text/css" media="all">
 </style>
 </head>
