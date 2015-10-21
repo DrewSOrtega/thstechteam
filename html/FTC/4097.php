@@ -4,7 +4,7 @@
 <head>
 <link rel="icon" href="your_icon_goes_here.ico" type="image/x-icon">
 <meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
-<title>4097</title>
+<title>FTC Team 4097</title>
 <meta http-equiv="Content-Language" content="en-us" />
 <meta name="author" content="Your Name Goes Here" />
 <style type="text/css" media="all">
@@ -12,5 +12,24 @@
 </head>
 <body>
 <?php include('menu.php'); ?>
+<div id="content">
+<h2>Team </h2>
+<ul id="team">
+<li>Slincia Clemens</li>
+<li>Sophia Crawford</li>
+<li>Jacob Demmin</li>
+<li>James Doan</li>
+<li>Trenton Freeman</li>
+<li>Grace Harestad</li>
+<li>Justin Lemke</li>
+<li>Manson Meek</li>
+<li>Jason Nesbitt</li>
+<li>Joshua Rider</li>
+<li>Allison Shultz</li>
+<li>Connor Jacobson</li>
+<li id="coach">Coaches: Mr. Colgrove and Ms. Cox</li>
+</ul>
+<br />
+</div>
 </body>
 </html>
