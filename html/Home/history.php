@@ -191,6 +191,20 @@ We fielded four teams this year<br>
 <b>Team 3192:</b> Jack Scultz, Kail Mcgrath, Greg Collins, Alan Haynes, Cliff Daniels, Micheal Teo, Aurora Seeber, Thomas Woodward, Mackenzie Gray (Captain) Joshua Zheng (Captain),  Andrew Barnes, Laura Chapman, Margaret Lang, Chris Mooney, Matt Gould, Eric Woodward, Steve Fulton, Alex Kane, Denney Cole, Chris Gardella, Reza Fouladian, Narin Luangrath, Michelle Vollmuller, and Ty Walsh<br>
  </div>
 <br/><br/>
+<h3>Years 2013-2014</h3>
+ <div>
+<img src="../../image/1213robotphoto.jpg" width="auto" height="200px"/>
+We fielded four teams this year<br>
+<b>Team 750:</b>  Emma Barbee(Captain),Emily Bare, Jordan Holland, Tiffany Chu, Austin Mckee<br>
+<b>Team 3058:</b> Antonio Torres (Captain), Peter Strobel, Brendan Gende, Reed Colgrove<br>
+<b>Team 3965:</b> India Silver(Captain) Niah Klotz, Michael Mota, Michelle Alvarado<br>
+<b>Team 4097:</b> Ian Roberts (Captain) Abbey Lewis, Johannes Bromander, Jonathan Le
+</div>
+<h4>FTC Season</h4>
+<div>
+<b>Team 3192:</b> Michael Yeo, Laura Chapman, Alan Haynes, Grant Fullerton, Gery Hristova, Troy Laviolette, Chase Ford<br>
+ </div>
+<br/><br/>
 </body>
 
 </html>
