@@ -33,6 +33,8 @@ div {
 }
 img{
 float:right;
+width:auto;
+height:200px;
 }
 
 </style>
@@ -179,7 +181,7 @@ They all had fun and learned a lot. Hosting on January 28-29, Tigard High School
  </div>
  <h3>Years 2012-2013</h3>
  <div>
-<img src="../../image/1213robotphoto.jpg" width="auto" height="200px"/>
+<img src="../../image/1213robotphoto.jpg" />
 We fielded four teams this year<br>
 <b>Team 750:</b>Antonio Torres (Captain),Tiffany Chu, Mihir and Mayur Paralkar.<br>
 <b>Team 3058:</b> Jake Bandel (Captain), Gabe Ervin, Nick Stites, Clayton Bernard, Niah Klotz, Brendan Gende. The Jury Riggers advanced to finals of the St Helens State Championship Tournament.<br>
