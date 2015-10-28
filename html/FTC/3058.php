@@ -7,7 +7,7 @@
 <title>3058</title>
 <meta http-equiv="Content-Language" content="en-us" />
 <meta name="FTC Team 3058" content="Dukelow" />
-<link rel="stylesheet" type="text/css" href="../../css.css" />
+<link rel="stylesheet" type="text/css" href="../../css/css.css" />
 <style type="text/css" media="all">
 </style>
 </head>
