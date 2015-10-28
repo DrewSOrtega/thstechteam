@@ -57,3 +57,41 @@ background-color: #006400;
 a:link {color:#000;}
 a:hover {color:#FFF;}
 a:visited {color:#000;}
+#content {
+display:block;
+margin-left:auto;
+margin-right:auto;
+width:900px;
+background-color: green;
+}
+h2 {
+text-align: center;
+}
+#team {
+text-align: center;
+list-style: none;
+}
+#coach {
+font-weight: bold;
+}
+ul {
+list-style-type:none;
+margin:20px;
+padding:0;
+text-indent:25px;
+}
+ul li{
+list-style-type:none;
+margin:15px;
+padding:0;
+text-indent:25px;
+}
+ul  li.head{
+list-style-type:none;
+margin:0;
+padding:0;
+text-indent:25px;
+font-size:160%;
+font-weight:bold;
+text-align:center;
+}
