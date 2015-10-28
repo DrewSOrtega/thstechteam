@@ -193,7 +193,7 @@ We fielded four teams this year<br>
 <br/><br/>
 <h3>Years 2013-2014</h3>
  <div>
-<img src="../../image/1213robotphoto.jpg" width="auto" height="200px"/>
+<img src="../image/1314robot.jpg"/>
 We fielded four teams this year<br>
 <b>Team 750:</b>  Emma Barbee(Captain),Emily Bare, Jordan Holland, Tiffany Chu, Austin Mckee<br>
 <b>Team 3058:</b> Antonio Torres (Captain), Peter Strobel, Brendan Gende, Reed Colgrove<br>
