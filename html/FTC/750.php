@@ -7,11 +7,12 @@
 <title>FTC Team 750</title>
 <meta http-equiv="Content-Language" content="en-us" />
 <meta name="author" content="Dukelow" />
+<link rel="stylesheet" type="text/css" href="../../css/css.css" />
 <style type="text/css" media="all">
 </style>
 </head>
 <body>
-<?php include('menu.php'); ?>
+<?php include('../menu.php'); ?>
 		<div id="content">
 			<h2>Team 750</h2>
 			<ul id="team">
