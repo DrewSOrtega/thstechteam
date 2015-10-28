@@ -12,7 +12,7 @@
 </style>
 </head>
 <body>
-<?php include('menu.php'); ?>
+<?php include('../menu.php'); ?>
 		<div id="content">
 			<h2>Team 3058</h2>
 			<ul id="team">
