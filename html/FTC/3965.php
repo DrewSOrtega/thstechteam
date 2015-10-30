@@ -13,7 +13,8 @@
 <body>
 <?php include('../menu.php'); ?>
 		<div id="content">
-			<h2>Team 3965</h2>
+			<h1>FTC Team 3965</h1>
+			<h2>Roster</h2>
 			<ul id="team">
 				<li>Joshua Hancock</li>
 				<li>Joshua Harrington</li>
