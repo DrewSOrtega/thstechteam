@@ -38,7 +38,10 @@ the students leave with plenty of training. We arleady earned over 60 certificat
 <img src="../../image/Lam_logo.png" width="33%"/>
 <img src="../../image/coiltron.gif" width="33%"/>
 <br><br><br><br><br>
-<img src="../../image/team.jpg" width="100%" height="auto"/>
+<h1>News:</h1><br>
+<div style="height:300px;">
+<!--Add all news in this div-->	
+</div>
 </div>
 </body>
 </html>
