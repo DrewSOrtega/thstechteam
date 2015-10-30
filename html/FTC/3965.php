@@ -12,10 +12,10 @@
 </head>
 <body>
 <?php include('../menu.php'); ?>
-		<div id="content">
+		<div class="maint">
 			<h1>FTC Team 3965</h1>
 			<h2>Roster</h2>
-			<ul id="team">
+			<ul>
 				<li>Joshua Hancock</li>
 				<li>Joshua Harrington</li>
 				<li>Abdullah Haswarey</li>
