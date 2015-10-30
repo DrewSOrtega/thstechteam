@@ -12,8 +12,8 @@
 </head>
 <body>
 <?php include('../menu.php'); ?>
-		<div id="maint">
-			<h1>Team 3058</h1>
+		<div class="maint">
+			<h1>FTC Team 3058</h1>
 			<h2>Roster</h2>
 			<ul>
 				<li>Jaun Andreos</li>
