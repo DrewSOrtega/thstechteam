@@ -13,10 +13,10 @@
 </head>
 <body>
 <?php include('../menu.php'); ?>
-		<div id="content">
+		<div class="maint">
 			<h1>FTC Team 750</h1>
 			<h2>Roster</h2>
-			<ul id="team">
+			<ul>
 				<li>Darby Cox</li>
 				<li>Cameron Doughty</li>
 				<li>Ethan Gazin</li>
