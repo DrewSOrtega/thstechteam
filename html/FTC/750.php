@@ -14,7 +14,8 @@
 <body>
 <?php include('../menu.php'); ?>
 		<div id="content">
-			<h2>Team 750</h2>
+			<h1>FTC Team 750</h1>
+			<h2>Roster</h2>
 			<ul id="team">
 				<li>Darby Cox</li>
 				<li>Cameron Doughty</li>
