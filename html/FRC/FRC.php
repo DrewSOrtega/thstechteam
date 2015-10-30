@@ -18,10 +18,8 @@
 <link rel="stylesheet" type="text/css" href="../../css/css.css">
 
 <style type="text/css" media="all">
-
 h2 {text-align:center;}
 blockquote {float:right;}
-
 </style>
 
 </head>
@@ -53,32 +51,35 @@ was tasked with developing a basic robot design based on their proposed game str
 general idea- a maneuverable chassis with a fork-lift like devise on the front end to move and stack the boxes. At the
 completion of the presentations, each team leader was asked to "formalize" their ideas for presentation that Tuesday night
 to the assembled coaches and teammates, concentrating specifically on design capabilities and limitations.</p>-->
-<h1>Roster</h1>
-<h6>Odalis Angeles</h6>
-<h6>Johannes Bromander</h6>
-<h6>Stacy Torres</h6>
-<h6>Jeffrey Chapman</h6>
-<h6>Tiffany Chu</h6>
-<h6>Trinity Deic</h6>
-<h6>Patrick Dukelow</h6>
-<h6>Dan Field</h6>
-<h6>Jonathan Gillespie</h6>
-<h6>Luong Hoang</h6>
-<h6>Jordan Holland</h6>
-<h6>Jason Holm</h6>
-<h6>Jacob Jones</h6>
-<h6>Samantha Perona</h6>
-<h6>Sameer Raviprakash</h6>
-<h6>Ian Roberts</h6>
-<h6>Peter Strobel</h6>
-<h6>Cole Swanson</h6>
-<h6>Jonathan Le</h6>
-<h6>Abbey Lewis</h6>
-<h6>Austin Liu</h6>
-<h6>Kenny Luong</h6>
-<h6>Austin Mckee</h6>
-<h6>Xavier Mendez</h6>
-<h6>Drew Ortega</h6>
+<h1 >The Team</h1>
+<ul>
+<li>Odalis Angeles</li>
+<li>Johannes Bromander</li>
+<li>Stacy Torres</li>
+<li>Jeffrey Chapman</li>
+<li>Tiffany Chu</li>
+<li>Trinity Deic</li>
+<li>Patrick Dukelow</li>
+<li>Dan Field</li>
+<li>Jonathan Gillespie</li>
+<li>Luong Hoang</li>
+<li>Jordan Holland</li>
+<li>Jason Holm</li>
+<li>Jacob Jones</li>
+<li>Samantha Perona</li>
+<li>Sameer Raviprakash</li>
+<li>Ian Roberts</li>
+<li>Peter Strobel</li>
+<li>Cole Swanson</li>
+<li>Jonathan Le</li>
+<li>Abbey Lewis</li>
+<li>Austin Liu</li>
+<li>Kenny Luong</li>
+<li>Austin Mckee</li>
+<li>Xavier Mendez</li>
+<li>Drew Ortega</li>
+</ul>
+
 </div>
 </body>
 
