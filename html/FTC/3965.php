@@ -6,7 +6,6 @@
 <meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
 <title>FTC Team 3965</title>
 <meta http-equiv="Content-Language" content="en-us" />
-<meta name="author" content="Dukelow" />
 <link rel="stylesheet" type="text/css" href="../../css/css.css" />
 <style type="text/css" media="all">
 </style>
