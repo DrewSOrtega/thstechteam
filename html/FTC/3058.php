@@ -4,18 +4,18 @@
 <head>
 <link rel="icon" href="your_icon_goes_here.ico" type="image/x-icon">
 <meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
-<title>3058</title>
+<title>FTC Team 3058</title>
 <meta http-equiv="Content-Language" content="en-us" />
-<meta name="FTC Team 3058" content="Dukelow" />
 <link rel="stylesheet" type="text/css" href="../../css/css.css" />
 <style type="text/css" media="all">
 </style>
 </head>
 <body>
 <?php include('../menu.php'); ?>
-		<div id="content">
+		<div id="maint">
 			<h1>Team 3058</h1>
-			<ul id="team">
+			<h2>Roster</h2>
+			<ul>
 				<li>Jaun Andreos</li>
 				<li>Emma Barbee</li>
 				<li>Jan Carlson</li>
