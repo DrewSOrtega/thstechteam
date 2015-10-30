@@ -13,9 +13,10 @@
 </head>
 <body>
 <?php include('../menu.php'); ?>
-<div id="content">
-<h2>Team </h2>
-<ul id="team">
+<div class="maint">
+<h1>FTC Team 4097</h1>
+<h2>Roster</h2>
+<ul>
 <li>Slincia Clemens</li>
 <li>Sophia Crawford</li>
 <li>Jacob Demmin</li>
