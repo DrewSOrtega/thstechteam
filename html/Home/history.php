@@ -205,6 +205,7 @@ We fielded four teams this year<br>
 <h4>FTC Season</h4>
 <div>
 <b>Team 3192:</b> Michael Yeo, Laura Chapman, Alan Haynes, Grant Fullerton, Gery Hristova, Troy Laviolette, Chase Ford<br>
+<b>Coaches</b> Steve Fulton, Denney Cole, Russ Ellavsky, Matt Gould, Chris Mooney, Scott Webster
  </div>
 <br/><br/>
 </body>
