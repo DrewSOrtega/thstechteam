@@ -14,7 +14,7 @@
 <body>
 <?php include('../menu.php'); ?>
 		<div id="content">
-			<h2>Team 3058</h2>
+			<h1>Team 3058</h1>
 			<ul id="team">
 				<li>Jaun Andreos</li>
 				<li>Emma Barbee</li>
