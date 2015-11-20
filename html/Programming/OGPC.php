@@ -33,8 +33,10 @@
 		<li>OGPC 7.0 = Internal Struggle</li>
 		<li></br></li>
 		<li>OGPC 8.0 = What makes a hero?</li>
+		<li></br></li>
+		<li>OGPC 9.0 = Hidden Worlds</li>
 	</ul>
-	<p>This years theme for OGPC is "What makes a hero?" It is focused on what traits heroes have. With a big focus on antiheroes, our programmers will explore concepts like what force drives a hero? When can you become a hero? What defines a heroic act? Does a hero have to "fight" to be heroic?</p>
+	<p>Within our world, there are countless things we cannot perceive (or choose not to). Within these gaps of our perception are Hidden Worlds that might be revealed if only we were able or willing to see them.  All around us are a wide range of things that are normally invisible. The micro and nano worlds hold things ranging from viruses to fundamental particles to human created nano structures. Interesting interactions are constantly taking place all around and inside of us at a scale too small to normally notice.</p>
 </div>
 </body>
 </html>
