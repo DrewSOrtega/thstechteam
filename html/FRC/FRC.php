@@ -35,7 +35,8 @@ Under strict rules, limited resources, and time limits, teams of 25 students or 
 a team "brand," hone teamwork skills, and build and program robots to perform prescribed tasks against a field of </br>
 competitors. It's as close to "real-world engineering" as a student can get. Volunteer professional mentors lend their </br>
 time and talents to guide each team.</i></blockquote>
-
+<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mAN1B7oKDXE" frameborder="0" allowfullscreen></iframe>
 
 </hr>
 <!--<h3><i>This year's game</i></h3>
