@@ -36,11 +36,11 @@ a team "brand," hone teamwork skills, and build and program robots to perform pr
 competitors. It's as close to "real-world engineering" as a student can get. Volunteer professional mentors lend their </br>
 time and talents to guide each team.</i></blockquote>
 <br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mAN1B7oKDXE" frameborder="0" allowfullscreen></iframe>
+
 
 </hr>
-<!--<h3><i>This year's game</i></h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hTyCIYZQ_1s" frameborder="0" allowfullscreen></iframe>
+<h3><i>This year's game</i></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mAN1B7oKDXE" frameborder="0" allowfullscreen></iframe>
 <p>On Saturday after the game release, we met in TNET, downloaded the Game Manual, made copies for each of the specialty 
 teams and began to read. By noon when the rest of the FRC Team gathered for their reveal, we had inventoried the KoP,
 laid it out for inspection by the team, read the Game Manual and developed a brief demonstration to further explain the 
@@ -51,7 +51,7 @@ was tasked with developing a basic robot design based on their proposed game str
 , the three teams came back together and presented their ideas to the rest of the group. The teams all came to the same 
 general idea- a maneuverable chassis with a fork-lift like devise on the front end to move and stack the boxes. At the
 completion of the presentations, each team leader was asked to "formalize" their ideas for presentation that Tuesday night
-to the assembled coaches and teammates, concentrating specifically on design capabilities and limitations.</p>-->
+to the assembled coaches and teammates, concentrating specifically on design capabilities and limitations.</p>
 <h1 style="text-align: left;">The Team</h1>
 <ul>
 <li>Odalis Angeles</li>
