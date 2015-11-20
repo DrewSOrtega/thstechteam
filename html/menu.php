@@ -49,17 +49,17 @@
 						<a href="Programming/Courses.php" class="linkage" target="bucky">Courses</a>
 					</div>
 					<div class="navbuttLoL">
-						<a href="Programming/Progindex.php" class="linkage" target="bucky">League of Legends</a>
+						<a href="LoL/lolindex.php" class="linkage" target="bucky">League of Legends</a>
 						</br></br>
-						<a href="Programming/Alpha.php" class="linkage" target="bucky">Alpha</a>
+						<a href="LoL/Alpha.php" class="linkage" target="bucky">Alpha</a>
 						</br></br>
-						<a href="Programming/Bravo.php" class="linkage" target="bucky">Bravo</a>
+						<a href="LoL/Bravo.php" class="linkage" target="bucky">Bravo</a>
 						</br></br>
-						<a href="Programming/Charlie.php" class="linkage" target="bucky">Charlie</a>
+						<a href="LoL/Charlie.php" class="linkage" target="bucky">Charlie</a>
 						</br></br>
-						<a href="Programming/Delta.php" class="linkage" target="bucky">Delta</a>
+						<a href="LoL/Delta.php" class="linkage" target="bucky">Delta</a>
 						</br></br>
-						<a href="Programming/Echo.php" class="linkage" target="bucky">Echo</a>
+						<a href="LoL/Echo.php" class="linkage" target="bucky">Echo</a>
 					</div>
 				</div>
 			</div>
