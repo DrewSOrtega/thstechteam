@@ -44,7 +44,7 @@
 						</br></br>
 						<a href="../Programming/OGPC.php" class="linkage" target="bucky">OGPC</a>
 						</br></br>
-						<a href="../Programming/Willamette.php" class="linkage" target="bucky">Willamette</a>
+						<a href="../Programming/willamette.php" class="linkage" target="bucky">Willamette</a>
 						</br></br>
 						<a href="../Programming/Courses.php" class="linkage" target="bucky">Courses</a>
 					</div>
