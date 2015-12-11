@@ -22,44 +22,44 @@
 						<a href="../Home/calendar.php" class="linkage" target="bucky">Calendar</a>
 					</div>
 					<div class="navbuttFRC">
-						<a href="FRC/FRCindex.php" class="linkage" target="bucky">FRC</a>
+						<a href="../FRC/FRCindex.php" class="linkage" target="bucky">FRC</a>
 						</br></br>
-						<a href="FRC/3192A.php" class="linkage" target="bucky">3192A</a>
+						<a href="../FRC/3192A.php" class="linkage" target="bucky">3192A</a>
 						</br></br>
-						<a href="FRC/3192B.php" class="linkage" target="bucky">3192B</a>	
+						<a href="../FRC/3192B.php" class="linkage" target="bucky">3192B</a>	
 					</div>
 						<div class="navbuttFTC">
-						<a href="FTC/FTCindex.php" class="linkage" target="bucky">FTC</a>
+						<a href="../FTC/FTCindex.php" class="linkage" target="bucky">FTC</a>
 						</br></br>
-						<a href="FTC/750.php" class="linkage" target="bucky">750</a>
+						<a href="../FTC/750.php" class="linkage" target="bucky">750</a>
 						</br></br>
-						<a href="FTC/3058.php" class="linkage" target="bucky">3058</a>
+						<a href="../FTC/3058.php" class="linkage" target="bucky">3058</a>
 						</br></br>
-						<a href="FTC/3965.php" class="linkage" target="bucky">3965</a>
+						<a href="../FTC/3965.php" class="linkage" target="bucky">3965</a>
 						</br></br>
-						<a href="FTC/4097.php" class="linkage" target="bucky">4097</a>						
+						<a href="../FTC/4097.php" class="linkage" target="bucky">4097</a>						
 					</div>
 					<div class="navbuttProgramming">
-						<a href="Programming/Progindex.php" class="linkage" target="bucky">Programming</a>
+						<a href="../Programming/Progindex.php" class="linkage" target="bucky">Programming</a>
 						</br></br>
-						<a href="Programming/OGPC.php" class="linkage" target="bucky">OGPC</a>
+						<a href="../Programming/OGPC.php" class="linkage" target="bucky">OGPC</a>
 						</br></br>
-						<a href="Programming/Willamette.php" class="linkage" target="bucky">Willamette</a>
+						<a href="../Programming/Willamette.php" class="linkage" target="bucky">Willamette</a>
 						</br></br>
-						<a href="Programming/Courses.php" class="linkage" target="bucky">Courses</a>
+						<a href="../Programming/Courses.php" class="linkage" target="bucky">Courses</a>
 					</div>
 					<div class="navbuttLoL">
-						<a href="LoL/lolindex.php" class="linkage" target="bucky">League of Legends</a>
+						<a href="../LoL/lolindex.php" class="linkage" target="bucky">League of Legends</a>
 						</br></br>
-						<a href="LoL/Alpha.php" class="linkage" target="bucky">Alpha</a>
+						<a href="../LoL/Alpha.php" class="linkage" target="bucky">Alpha</a>
 						</br></br>
-						<a href="LoL/Bravo.php" class="linkage" target="bucky">Bravo</a>
+						<a href="../LoL/Bravo.php" class="linkage" target="bucky">Bravo</a>
 						</br></br>
-						<a href="LoL/Charlie.php" class="linkage" target="bucky">Charlie</a>
+						<a href="../LoL/Charlie.php" class="linkage" target="bucky">Charlie</a>
 						</br></br>
-						<a href="LoL/Delta.php" class="linkage" target="bucky">Delta</a>
+						<a href="../LoL/Delta.php" class="linkage" target="bucky">Delta</a>
 						</br></br>
-						<a href="LoL/Echo.php" class="linkage" target="bucky">Echo</a>
+						<a href="../LoL/Echo.php" class="linkage" target="bucky">Echo</a>
 					</div>
 				</div>
 			</div>
