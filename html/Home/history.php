@@ -40,7 +40,7 @@ height:200px;
 </style>
 </head>
 <body>
-<?php include('menu.php'); ?>
+<?php include('../menu.php'); ?>
 <h1>History</h1>
 <h2>The start of something big</h2>
 <h3 style="text-align:justify;">In 2006 four boys with Stevie Vaine (Tigard High School Computer Science and Information Technology 
