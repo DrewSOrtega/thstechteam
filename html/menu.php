@@ -64,7 +64,7 @@
 				</div>
 			</div>
 		</div>
-<iframe scrolling="yes" name="bucky"></iframe>
+<!--<iframe scrolling="yes" name="bucky"></iframe>-->
 <marquee direction="left" scrollamount="4px">
 <font size="+2" color="gold">Lam Research - $12000&nbsp;&nbsp;</font>
 <font size="+2" color="gold">Oregon Department of Education - $7000&nbsp;&nbsp</font>
