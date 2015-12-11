@@ -17,7 +17,7 @@
 					<div class="navbuttHome">
 					<a href="Home/home.php" class="linkage" target="bucky">Home</a>
 						</br></br>
-						<a href="../Home/history.php" class="linkage" >History</a>
+						<a href="../Home/history.php" class="linkage" target="bucky">History</a>
 						</br></br>
 						<a href="../Home/calendar.php" class="linkage" target="bucky">Calendar</a>
 					</div>
