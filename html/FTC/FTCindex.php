@@ -19,6 +19,7 @@ h1 {text-align:center}
 </head>
 
 <body>
+<?php include('menu.php'); ?>
 
 <h1>FTC</h1>
 <div class="maint">
