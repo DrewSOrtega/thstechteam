@@ -1,19 +1,28 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-<link rel="icon" href="your_icon_goes_here.ico" type="image/x-icon">
-<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
-<title>OGPC</title>
-<meta http-equiv="Content-Language" content="en-us" />
-<meta name="author" content="Your Name Goes Here" />
-<link rel="stylesheet" type="text/css" href="../../css/css.css">
-<style type="text/css" media="all">
-.ogpclist {list-style-type: none;}
+<!DOCTYPE html>
+<html>
+<head><meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+
+	<title>Charlie</title>
+
+	<meta http-equiv="Content-Language" content="en-us" />
+	<meta name="author" content="Your Name Goes Here" />
+	<link rel="shortcut icon" href="../../image/powert.png">
+	<link rel="stylesheet" type="text/css" href="../../css/css.css">
+	<link rel="stylesheet" type="text/css" href="../../css/navbar.css">
+	<style type="text/css" media="all">
+h1{ text-align:center;
+	color:black;
+	font-weight:bold;
+	font-size: 50px;
+}
+img{
+	margin:auto;
+	float:left;
+}
 </style>
 </head>
 <body>
-<?php include('menu.php'); ?>
+<?php include('../menu.php'); ?>
 <div class="maint">
 	<h2>OGPC</h2>
 	<p>OGPC is the only state-wide game programming competition in Oregon! It introduces middle and high school students to computer programming basics while educating them in science and current events. Teams of four to seven middle or high school students create computer games designed to be fun, challenging and innovative around a socially responsible annual theme. Teams present their games to industry professionals and are awarded in several categories during the statewide competition in April.</p>
