@@ -22,7 +22,7 @@
 						<a href="../Home/calendar.php" class="linkage" target="bucky">Calendar</a>
 					</div>
 					<div class="navbuttFRC">
-						<a href="../FRC/FRCindex.php" class="linkage" target="bucky">FRC</a>
+						<a href="../FRC/FRC.php" class="linkage" target="bucky">FRC</a>
 						</br></br>
 						<a href="../FRC/3192A.php" class="linkage" target="bucky">3192A</a>
 						</br></br>
