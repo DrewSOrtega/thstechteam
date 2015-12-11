@@ -14,8 +14,9 @@
 <?php include('../menu.php'); ?>
 		<div class="maint">
 			<h1>FTC Team 3965</h1>
-			<h2>Roster</h2>
 			<ul>
+			<h2>Roster</h2>
+			<img src="../../image/1213robotphoto.jpg" width=50% height=auto style="float: right;"/> 
 				<li>Joshua Hancock</li>
 				<li>Joshua Harrington</li>
 				<li>Abdullah Haswarey</li>
