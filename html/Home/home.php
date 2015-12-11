@@ -7,7 +7,7 @@
 	<meta http-equiv="Content-Language" content="en-us" />
 	<meta name="author" content="Your Name Goes Here" />
 	<link rel="shortcut icon" href="../../image/powert.png">
-	<link rel="stylesheet" type="text/css" href="../css/css.css">
+	<link rel="stylesheet" type="text/css" href="../../css/css.css">
 	<style type="text/css" media="all">
 h1{ text-align:center;
 	color:black;
