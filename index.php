@@ -19,7 +19,7 @@
 
 <body>
 
-<a href=” http://www.yahoo.com” target=”_blank”>
+<a href=” http://www.yahoo.com” target=”This is my home.”>
 
 </body>
 
