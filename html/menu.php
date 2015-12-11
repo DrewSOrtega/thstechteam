@@ -66,8 +66,11 @@
 		</div>
 <iframe scrolling="yes" name="bucky"></iframe>
 <marquee direction="left" scrollamount="4px">
-<font size="+2" color="gold">Lam Research - $10000&nbsp;&nbsp;</font>
+<font size="+2" color="gold">Lam Research - $12000&nbsp;&nbsp;</font>
 <font size="+2" color="gold">Oregon Department of Education - $7000&nbsp;&nbsp</font>
+<font size="+2" color="gold">KATU and Sinclair Broadcast Group - $3600&nbsp;&nbsp</font>
+<font color="bronze">THS Parent Support Organizatino (PSO) - $1000&nbsp;&nbsp</font>
+<font color="bronze">Mentor Graphics Association - $500&nbsp;&nbsp</font>
 </marquee>
 </body>
 '?>
