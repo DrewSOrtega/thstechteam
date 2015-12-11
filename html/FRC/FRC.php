@@ -52,6 +52,9 @@ was tasked with developing a basic robot design based on their proposed game str
 general idea- a maneuverable chassis with a fork-lift like devise on the front end to move and stack the boxes. At the
 completion of the presentations, each team leader was asked to "formalize" their ideas for presentation that Tuesday night
 to the assembled coaches and teammates, concentrating specifically on design capabilities and limitations.</p>
+
+<h1> Safety Animation<iframe width="420" height="315" src="https://www.youtube.com/embed/o09Vb3HVSdQ" frameborder="0" allowfullscreen></iframe></h1>
+
 <h1 style="text-align: left;">The Team</h1>
 <ul>
 <li>Odalis Angeles</li>
