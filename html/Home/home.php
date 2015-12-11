@@ -21,7 +21,7 @@ img{
 </style>
 </head>
 <body>
-<?php include('../../menu.php'); ?>
+<?php include('../menu.php'); ?>
 <br/><br/>
 <h1>Tigard High School Technology Team</h1>
 <div class="maint">
