@@ -6,6 +6,8 @@
 	<meta http-equiv="Content-Language" content="en-us" />
 	<meta name="author" content="Your Name Goes Here" />
 	<style type="text/css" media="all">
+	<link rel="stylesheet" type="text/css" href="../../css/css.css">
+	<link rel="stylesheet" type="text/css" href="../../css/navbar.css">
 </style>
 </head>
 <body>
