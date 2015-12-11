@@ -5,8 +5,8 @@
 
 <head>
 
-	<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
-
+	<!--<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />-->
+        <meta http-equiv="refresh" content="0; url=http://thstechteam.org/html/Home/home.php" />
 	<title>Page Title Goes Here</title>
 
 	<meta http-equiv="Content-Language" content="en-us" />
@@ -19,7 +19,7 @@
 
 <body>
 
-<a href=” http://www.yahoo.com”>This is my home.</a>
+<a href=”http://www.yahoo.com”>This is my home.</a>
 
 </body>
 
