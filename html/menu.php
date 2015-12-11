@@ -46,7 +46,7 @@
 						</br></br>
 						<a href="../Programming/willamette.php" class="linkage" target="bucky">Willamette</a>
 						</br></br>
-						<a href="../Programming/Courses.php" class="linkage" target="bucky">Courses</a>
+						<a href="../Programming/courses.php" class="linkage" target="bucky">Courses</a>
 					</div>
 					<div class="navbuttLoL">
 						<a href="../LoL/lolindex.php" class="linkage" target="bucky">League of Legends</a>
