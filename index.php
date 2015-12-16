@@ -19,8 +19,6 @@
 
 <body>
 
-<a href=”http://www.yahoo.com”>This is my home.</a>
-
 </body>
 
 </html>
