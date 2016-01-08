@@ -5,7 +5,9 @@ body{
 	margin:0px;
 	top: 0px;
 	left: 0px;
-	}
+	background-image: url("../image/ths.jpg");
+    	background-color: #cccccc;
+}
 .maint{
 	margin:auto;
 	width:65%;
