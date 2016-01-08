@@ -15,6 +15,10 @@ body{
 	text-align: justify;
 	padding: 20px;
 }
+.bodytext {
+	background-color: rgba(0,0,0,0.45);
+	padding: 8px;
+}
 /*Marquee and sponsors*/
 .gold {color:#FFD700;font-size: 25px;}
 .friend {color:#0000AA;font-size: 25px;}
