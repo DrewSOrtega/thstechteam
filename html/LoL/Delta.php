@@ -2,7 +2,7 @@
 <html>
 <head><meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
 
-	<title>Alpha</title>
+	<title>Delta</title>
 
 	<meta http-equiv="Content-Language" content="en-us" />
 	<meta name="author" content="Your Name Goes Here" />
