@@ -15,7 +15,7 @@
 		<div class="background">
 			<div class="navbar">
 					<div class="navbuttHome">
-					<a href="home.php" class="linkage" target="bucky">Home</a>
+						<a href="../Home/home.php" class="linkage" target="bucky">Home</a>
 						</br></br>
 						<a href="../Home/history.php" class="linkage" target="bucky">History</a>
 						</br></br>
@@ -69,7 +69,7 @@
 <font size="+2" color="gold">Lam Research - $12000&nbsp;&nbsp;</font>
 <font size="+2" color="gold">Oregon Department of Education - $7000&nbsp;&nbsp</font>
 <font size="+2" color="gold">KATU and Sinclair Broadcast Group - $3600&nbsp;&nbsp</font>
-<font size="+2" color="bronze">THS Parent Support Organizatino (PSO) - $1000&nbsp;&nbsp</font>
+<font size="+2" color="bronze">THS Parent Support Organization (PSO) - $1000&nbsp;&nbsp</font>
 <font size="+2" color="bronze">Mentor Graphics Association - $5000&nbsp;&nbsp</font>
 </marquee>
 </body>
