@@ -24,7 +24,7 @@ img{
 <body>
 <?php include('../menu.php'); ?>
 <div style="margin:auto; width:90%; height:700px;">
-<iframe src="https://www.google.com/calendar/embed?src=qip9g4lbpp59sdoa3l5f2o1qi4%40group.calendar.google.com&ctz=America/Los_Angeles" width="100%" height="700px"></iframe>
+<iframe src="https://www.google.com/calendar/embed?src=qip9g4lbpp59sdoa3l5f2o1qi4%40group.calendar.google.com&ctz=America/Los_Angeles" width="85%" height="auto"></iframe>
 </div>
 </body>
 
