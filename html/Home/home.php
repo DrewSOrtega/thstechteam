@@ -37,6 +37,7 @@ the students leave with plenty of training. We arleady earned over 60 certificat
 <br/></br>
 <img src="../../image/Lam_logo.png" width="33%"/>
 <img src="../../image/mentor_logo.gif" width="33%"/>
+<img src="../../image/odot_logo.jpg" width="33%"/>
 <br><br><br><br><br>
 <h1>News:</h1><br>
 <div style="height:300px;">
