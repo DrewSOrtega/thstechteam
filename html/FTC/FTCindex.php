@@ -33,8 +33,9 @@ students are responsible for designing, building, and programming their robots t
  robots based on sound engineering principles. Awards are given for the competition as for well as for 
  community outreach, design, and other real-world accomplishments.
 </div>
-<div class="maint">
-<iframe width="600px" height="350px" src="http://www.youtube.com/embed/aDJMn4-2Fp4?rel=0" frameborder="0" allowfullscreen=""></iframe>
+
+<div style="margin:auto; width:90%; height:300px;">
+<iframe src="http://www.youtube.com/embed/aDJMn4-2Fp4?rel=0" width="85%" height="85%" frameborder="0"></iframe>
 </div>
 </body>
 
