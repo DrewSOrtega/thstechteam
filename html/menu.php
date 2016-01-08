@@ -10,7 +10,7 @@
 	<style type="text/css" media="all">
 	</style>
 </head>
-<body>
+<body background="../../image/ths.jpg">
 <div style="position:absolute;left:0px;top:0px;width:100%;">
 		<div class="background">
 			<div class="navbar">
