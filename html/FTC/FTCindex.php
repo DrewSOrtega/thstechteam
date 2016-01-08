@@ -2,7 +2,7 @@
 <html>
 <head><meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
 
-	<title>Charlie</title>
+	<title>FTC</title>
 
 	<meta http-equiv="Content-Language" content="en-us" />
 	<meta name="author" content="Your Name Goes Here" />
