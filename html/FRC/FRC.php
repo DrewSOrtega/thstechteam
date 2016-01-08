@@ -1,32 +1,28 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html>
+<html>
+<head><meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<title>FRC</title>
 
-<head>
-
-<link rel="icon" href="your_icon_goes_here.ico" type="image/x-icon">
-
-<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
-
-<title>FRC</title>
-
-<meta http-equiv="Content-Language" content="en-us" />
-
-<meta name="author" content="Your Name Goes Here" />
-
-<link rel="stylesheet" type="text/css" href="../../css/css.css">
-
-<style type="text/css" media="all">
-h2 {text-align:center;}
-blockquote {float:right;}
+	<meta http-equiv="Content-Language" content="en-us" />
+	<meta name="author" content="Your Name Goes Here" />
+	<link rel="shortcut icon" href="../../image/powert.png">
+	<link rel="stylesheet" type="text/css" href="../../css/css.css">
+	<link rel="stylesheet" type="text/css" href="../../css/navbar.css">
+	<style type="text/css" media="all">
+h1{ text-align:center;
+	color:black;
+	font-weight:bold;
+	font-size: 50px;
+}
+img{
+	margin:auto;
+	float:left;
+}
 </style>
-
 </head>
-
 <body>
-
-<?php include('menu.php'); ?>
+<?php include('../menu.php'); ?>
 <div class="maint">
 <h2 style="height:50px;">Team 3192 - TigerBytes</h2>
 
