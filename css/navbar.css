@@ -14,6 +14,7 @@ transition-property: height;
 transition-duration: .5s;
 -webkit-transition-property: height; /* Safari */
 -webkit-transition-duration: .5s;
+transition: background-color 0.5s ease;
 	}
 .navbuttHome:hover{
 background-color:#57B568;
@@ -33,6 +34,7 @@ transition-property: height;
 transition-duration: .5s;
 -webkit-transition-property: height; /* Safari */
 -webkit-transition-duration: .5s;
+transition: background-color 0.5s ease;
 	}
 .navbuttFRC:hover{
 background-color: #57B568;
@@ -54,6 +56,7 @@ transition-property: height;
 transition-duration: .5s;
 -webkit-transition-property: height; /* Safari */
 -webkit-transition-duration: .5s;
+transition: background-color 0.5s ease;
 	}
 .navbuttFTC:hover{
 background-color: #57B568;
@@ -75,6 +78,7 @@ transition-property: height;
 transition-duration: .5s;
 -webkit-transition-property: height; /* Safari */
 -webkit-transition-duration: .5s;
+transition: background-color 0.5s ease;
 	}
 .navbuttProgramming:hover{
 background-color: #57B568;
@@ -96,6 +100,7 @@ transition-property: height;
 transition-duration: .5s;
 -webkit-transition-property: height; /* Safari */
 -webkit-transition-duration: .5s;
+transition: background-color 0.5s ease;
 	}
 .navbuttLoL:hover{
 background-color: #57B568;
