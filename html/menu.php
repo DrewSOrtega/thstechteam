@@ -11,7 +11,7 @@
 	</style>
 </head>
 <body>
-<div style="position:absolute;left:0px;top:0px;width:100%;">
+<div style="position:fixed;left:0px;top:0px;width:100%;">
 		<div class="background">
 			<div class="navbar">
 					<div class="navbuttHome">
