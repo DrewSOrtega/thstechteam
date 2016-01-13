@@ -24,6 +24,7 @@ img{
 <body>
 <?php include('../menu.php'); ?>
 <div class="maint">
+	<div class="bodytext">
 	<h2>OGPC</h2>
 	<p>OGPC is the only state-wide game programming competition in Oregon! It introduces middle and high school students to computer programming basics while educating them in science and current events. Teams of four to seven middle or high school students create computer games designed to be fun, challenging and innovative around a socially responsible annual theme. Teams present their games to industry professionals and are awarded in several categories during the statewide competition in April.</p>
 	<ul class="ogpclist">
@@ -46,6 +47,7 @@ img{
 		<li>OGPC 9.0 = Hidden Worlds</li>
 	</ul>
 	<p>Within our world, there are countless things we cannot perceive (or choose not to). Within these gaps of our perception are Hidden Worlds that might be revealed if only we were able or willing to see them.  All around us are a wide range of things that are normally invisible. The micro and nano worlds hold things ranging from viruses to fundamental particles to human created nano structures. Interesting interactions are constantly taking place all around and inside of us at a scale too small to normally notice.</p>
+	</div>
 </div>
 </body>
 </html>
