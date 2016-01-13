@@ -88,7 +88,7 @@ Tech Challenge (FTC) tournament at OMSI. Team 750 scored well enough to advance 
  In 2010, members of the Tech Team were engaged in the Oregon Game Project Challenge. Three OGPC teams
  of 4-6 members each designed and programmed games that were judged by game and animation industry 
  professionals in Salem. The teams earned three awards:Programming Award 1st, Game Experience Award 1st, 
- and Game R&D Award 2nd.Expansion of THS Robotics (addition of FRC)In the fall of 2009, the team expanded
+ and Game R&amp;D Award 2nd.Expansion of THS Robotics (addition of FRC)In the fall of 2009, the team expanded
  to over forty students and six mentors with over half involved exclusively with FIRST robotics. They 
  purchased another FTC robot and Team 3965 was born. But the seniors were not satisfied with the small 
  scale robots any more. Having participated in two Intel Engineering Challenges and appeared in several 
@@ -179,7 +179,7 @@ They all had fun and learned a lot. Hosting on January 28-29, Tigard High School
  The team of robotic enthusiasts wanted to expand their understanding of robots. So they dived into SeaPerch and formed nine 
  teams, each being a three-person group. Since they were the only group in Oregon, except for INST Bruce
  Conway, that were participating in SeaPearch; they decided to host their own event. Luckily Evergreen
- Aviation & Space Museum - Waterpark, provided their facilities for them to use. It was all great fun and
+ Aviation &amp; Space Museum - Waterpark, provided their facilities for them to use. It was all great fun and
  the team is ready for next year's challenge.
  </div>
  <h3>Years 2012-2013</h3>
