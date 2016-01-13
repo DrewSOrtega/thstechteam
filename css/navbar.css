@@ -1,4 +1,5 @@
 .navbuttHome {
+
 float:left;
 display:block;
 height:20px;
@@ -16,8 +17,7 @@ transition-duration: .5s;
 -webkit-transition-duration: .5s;
 	}
 .navbuttHome:hover{
-color:#000000;
-background-color: #006400;
+background-color:#006400;
 height: 100px;
 	}
 .navbuttFRC {
@@ -112,27 +112,28 @@ height: 210px;
 	}
 .navbar {
 	height:28px; 
-	width:100%;
+	color:#AFAFAF;
 	background-color:#FFFFFF;
 	text-align:center;
 	margin:auto;
 	z-index: 6;
-	color:#FFFFFF;
+
 	}
 .linkage {
-	color: #AFAFAF;
+	color:#AFAFAF;
+	background-color;#FFFFFF;
 	font-weight: bold;
 	text-decoration: none;
-	background-color:#ffffff;
 	}
 .background {
+	color:#AFAFAF;
+	background-color;#FFFFFF;
 	width:100%;
 	left:0px;
 	top:0px;
 	padding:auto;
 	margin:auto;
 	text-align:center;
-	background-color:#FFFFFF
 	}
 .navbuttHome:Hover .linkage {
 	background-color:#006400;
