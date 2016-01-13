@@ -130,6 +130,7 @@ height: 210px;
 	padding:auto;
 	margin:auto;
 	text-align:center;
+	transition: background height 0.5s ease-out;
 	}
 .navbuttHome:Hover .linkage {
 	background-color:#AFF099;
