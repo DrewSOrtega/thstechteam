@@ -149,9 +149,6 @@ height: 210px;
 	transition: background-color 0.5s ease;
 }
 .navbuttLoL:Hover .linkage {
-	background-color:#AFF099;
-	transition: background-color 0.5s ease;
-=======
 	background-color:#57B568;
 	transition: background height 0.5s;
 }
@@ -170,5 +167,4 @@ height: 210px;
 .navbuttLoL:Hover .linkage {
 	background-color:#57B568;
 	transition: background height 0.5s;
->>>>>>> origin/master
 }
