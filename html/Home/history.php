@@ -42,6 +42,7 @@ height:200px;
 </head>
 <body>
 <?php include('../menu.php'); ?>
+<div class="maint">
 <div class="bodytext">
 <h1>History</h1>
 <h2>The start of something big</h2>
@@ -210,6 +211,7 @@ We fielded four teams this year<br>
 <b>Coaches</b> Steve Fulton, Denney Cole, Russ Ellavsky, Matt Gould, Chris Mooney, Scott Webster
  </div>
 <br/><br/>
+</div>
 </div>
 </body>
 
