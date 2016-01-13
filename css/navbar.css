@@ -17,7 +17,7 @@ transition-duration: .5s;
 transition: background-color 0.5s ease;
 	}
 .navbuttHome:hover{
-background-color:#57B568;
+background-color:#AFF099;
 height: 100px;
 	}
 .navbuttFRC {
@@ -37,7 +37,7 @@ transition-duration: .5s;
 transition: background-color 0.5s ease;
 	}
 .navbuttFRC:hover{
-background-color: #57B568;
+background-color: #AFF099;
 height: 100px;
 	}
 .navbuttFTC {
@@ -59,7 +59,7 @@ transition-duration: .5s;
 transition: background-color 0.5s ease;
 	}
 .navbuttFTC:hover{
-background-color: #57B568;
+background-color: #AFF099;
 height: 170px;
 	}
 .navbuttProgramming {
@@ -81,7 +81,7 @@ transition-duration: .5s;
 transition: background-color 0.5s ease;
 	}
 .navbuttProgramming:hover{
-background-color: #57B568;
+background-color: #AFF099;
 height: 140px;
 	}
 .navbuttLoL {
@@ -103,7 +103,7 @@ transition-duration: .5s;
 transition: background-color 0.5s ease;
 	}
 .navbuttLoL:hover{
-background-color: #57B568;
+background-color: #AFF099;
 height: 210px;
 	}
 .navbar {
@@ -132,22 +132,22 @@ height: 210px;
 	text-align:center;
 	}
 .navbuttHome:Hover .linkage {
-	background-color:#57B568;
+	background-color:#AFF099;
 	transition: background-color 0.5s ease;
 }
 .navbuttFRC:Hover .linkage {
-	background-color:#57B568;
+	background-color:#AFF099;
 	transition: background-color 0.5s ease;
 }
 .navbuttFTC:Hover .linkage {
-	background-color:#57B568;
+	background-color:#AFF099;
 	transition: background-color 0.5s ease;
 }
 .navbuttProgramming:Hover .linkage {
-	background-color:#57B568;
+	background-color:#AFF099;
 	transition: background-color 0.5s ease;
 }
 .navbuttLoL:Hover .linkage {
-	background-color:#57B568;
+	background-color:#AFF099;
 	transition: background-color 0.5s ease;
 }
