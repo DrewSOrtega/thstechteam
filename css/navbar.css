@@ -14,7 +14,7 @@ transition-property: height;
 transition-duration: .5s;
 -webkit-transition-property: height; /* Safari */
 -webkit-transition-duration: .5s;
-transition: background-color 0.5s ease;
+transition: background height 0.5s;
 	}
 .navbuttHome:hover{
 background-color:#AFF099;
@@ -34,7 +34,7 @@ transition-property: height;
 transition-duration: .5s;
 -webkit-transition-property: height; /* Safari */
 -webkit-transition-duration: .5s;
-transition: background-color 0.5s ease;
+transition: background height 0.5s;
 	}
 .navbuttFRC:hover{
 background-color: #AFF099;
@@ -56,7 +56,7 @@ transition-property: height;
 transition-duration: .5s;
 -webkit-transition-property: height; /* Safari */
 -webkit-transition-duration: .5s;
-transition: background-color 0.5s ease;
+transition: background height 0.5s;
 	}
 .navbuttFTC:hover{
 background-color: #AFF099;
@@ -78,7 +78,7 @@ transition-property: height;
 transition-duration: .5s;
 -webkit-transition-property: height; /* Safari */
 -webkit-transition-duration: .5s;
-transition: background-color 0.5s ease;
+transition: background height 0.5s;
 	}
 .navbuttProgramming:hover{
 background-color: #AFF099;
@@ -100,7 +100,7 @@ transition-property: height;
 transition-duration: .5s;
 -webkit-transition-property: height; /* Safari */
 -webkit-transition-duration: .5s;
-transition: background-color 0.5s ease;
+transition: background height 0.5s;
 	}
 .navbuttLoL:hover{
 background-color: #AFF099;
@@ -132,6 +132,7 @@ height: 210px;
 	text-align:center;
 	}
 .navbuttHome:Hover .linkage {
+<<<<<<< HEAD
 	background-color:#AFF099;
 	transition: background-color 0.5s ease;
 }
@@ -150,4 +151,24 @@ height: 210px;
 .navbuttLoL:Hover .linkage {
 	background-color:#AFF099;
 	transition: background-color 0.5s ease;
+=======
+	background-color:#57B568;
+	transition: background height 0.5s;
+}
+.navbuttFRC:Hover .linkage {
+	background-color:#57B568;
+	transition: background height 0.5s;
+}
+.navbuttFTC:Hover .linkage {
+	background-color:#57B568;
+	transition: background height 0.5s;
+}
+.navbuttProgramming:Hover .linkage {
+	background-color:#57B568;
+	transition: background height 0.5s;
+}
+.navbuttLoL:Hover .linkage {
+	background-color:#57B568;
+	transition: background height 0.5s;
+>>>>>>> origin/master
 }
