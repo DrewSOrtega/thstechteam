@@ -14,7 +14,7 @@ transition-property: height;
 transition-duration: .5s;
 -webkit-transition-property: height; /* Safari */
 -webkit-transition-duration: .5s;
-transition: background-color height 0.5s ease-out;
+transition: all height 0.5s ease-out;
 	}
 .navbuttHome:hover{
 background-color:#AFF099;
@@ -34,7 +34,7 @@ transition-property: height;
 transition-duration: .5s;
 -webkit-transition-property: height; /* Safari */
 -webkit-transition-duration: .5s;
-transition: background height 0.5s ease-out;
+transition: all height 0.5s ease-out;
 	}
 .navbuttFRC:hover{
 background-color: #AFF099;
@@ -56,7 +56,7 @@ transition-property: height;
 transition-duration: .5s;
 -webkit-transition-property: height; /* Safari */
 -webkit-transition-duration: .5s;
-transition: background-color height 0.5s ease-out;
+transition: all height 0.5s ease-out;
 	}
 .navbuttFTC:hover{
 background-color: #AFF099;
@@ -78,7 +78,7 @@ transition-property: height;
 transition-duration: .5s;
 -webkit-transition-property: height; /* Safari */
 -webkit-transition-duration: .5s;
-transition: background-color height 0.5s ease-out;
+transition: all height 0.5s ease-out;
 	}
 .navbuttProgramming:hover{
 background-color: #AFF099;
@@ -100,7 +100,7 @@ transition-property: height;
 transition-duration: .5s;
 -webkit-transition-property: height; /* Safari */
 -webkit-transition-duration: .5s;
-transition: background-color height 0.5s ease-out;
+transition: all height 0.5s ease-out;
 	}
 .navbuttLoL:hover{
 background-color: #AFF099;
