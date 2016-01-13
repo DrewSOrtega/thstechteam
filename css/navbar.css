@@ -135,3 +135,18 @@ height: 210px;
 	margin:auto;
 	text-align:center;
 	}
+.navbuttHome:Hover .linkage {
+	background-color:#006400;
+}
+.navbuttFRC:Hover .linkage {
+	background-color:#006400;
+}
+.navbuttFTC:Hover .linkage {
+	background-color:#006400;
+}
+.navbuttProgramming:Hover .linkage {
+	background-color:#006400;
+}
+.navbuttLoL:Hover .linkage {
+	background-color:#006400;
+}
