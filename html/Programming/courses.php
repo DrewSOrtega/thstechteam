@@ -24,6 +24,7 @@ img{
 <body>
 <?php include('../menu.php'); ?>
 <div class="maint">
+<div class="bodytext">
 <ul>
 	<li>Programming Courses</li>
 	<ul>
@@ -72,6 +73,7 @@ img{
 		</ul>
 	</ul>
 </ul>
+</div>
 </div>
 </body>
 
