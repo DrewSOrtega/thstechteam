@@ -134,6 +134,8 @@ height: 210px;
 .navbuttHome:Hover .linkage {
 <<<<<<< HEAD
 	background-color:#AFF099;
+	transition-property: height;
+	transition-duration: .5s;
 	transition: background-color 0.5s ease;
 }
 .navbuttFRC:Hover .linkage {
