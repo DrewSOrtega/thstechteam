@@ -130,25 +130,24 @@ height: 210px;
 	padding:auto;
 	margin:auto;
 	text-align:center;
-	transition: background height 0.5s ease-out;
 	}
 .navbuttHome:Hover .linkage {
 	background-color:#89A389;
-	transition: all 0.5s ease;
+	transition: all 1s ease;
 }
 .navbuttProgramming:Hover .linkage {
 	background-color:#89A389;
-	transition: all 0.5s ease;
+	transition: all 1s ease;
 }
 .navbuttLoL:Hover .linkage {
 	background-color:#89A389;
-	transition: all 0.5s ease;
+	transition: all 1s ease;
 }
 .navbuttFRC:Hover .linkage {
 	background-color:#89A389;
-	transition: all 0.5s ease;
+	transition: all 1s ease;
 }
 .navbuttFTC:Hover .linkage {
 	background-color:#89A389;
-	transition: all 0.5s ease;
+	transition: all 1s ease;
 }
