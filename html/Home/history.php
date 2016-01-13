@@ -42,6 +42,7 @@ height:200px;
 </head>
 <body>
 <?php include('../menu.php'); ?>
+<div class="bodytext">
 <h1>History</h1>
 <h2>The start of something big</h2>
 <h3 style="text-align:justify;">In 2006 four boys with Stevie Vaine (Tigard High School Computer Science and Information Technology 
@@ -209,6 +210,7 @@ We fielded four teams this year<br>
 <b>Coaches</b> Steve Fulton, Denney Cole, Russ Ellavsky, Matt Gould, Chris Mooney, Scott Webster
  </div>
 <br/><br/>
+</div>
 </body>
 
 </html>

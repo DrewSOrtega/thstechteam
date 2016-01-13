@@ -14,6 +14,7 @@
 <body>
 <?php include('../menu.php'); ?>
 		<div class="maint">
+			<div class="bodytext">
 			<h1>FTC Team 3058</h1>
 			<ul>
 			<h2>Roster</h2>
@@ -32,6 +33,7 @@
 				<li id="coach">Coaches: Vacant</li>
 			</ul>
 			<br />
+			</div>
 		</div>
 </body>
 </html>

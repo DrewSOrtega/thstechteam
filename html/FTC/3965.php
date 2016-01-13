@@ -24,6 +24,7 @@ img{
 <body>
 <?php include('../menu.php'); ?>
 		<div class="maint">
+			<div class="bodytext">
 			<h1>FTC Team 3965</h1>
 			<ul>
 			<h2>Roster</h2>
@@ -41,6 +42,7 @@ img{
 				<li id="coach">Coaches: Mr. Hancock and Mr. Hansen</li>
 			</ul>
 			<br />
+			</div>
 		</div>
 </body>
 </html>

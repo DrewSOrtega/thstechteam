@@ -24,6 +24,7 @@ img{
 <body>
 <?php include('../menu.php'); ?>
 <div class="maint">
+<div class="bodytext">
 <h2 style="height:50px;">Team 3192 - TigerBytes</h2>
 
 <blockquote><i>"The varsity Sport for the Mind," FRC combines the excitement of sport with the rigors of science and technology. </br>
@@ -83,6 +84,7 @@ to the assembled coaches and teammates, concentrating specifically on design cap
 <li>Drew Ortega</li>
 </ul>
 
+</div>
 </div>
 </body>
 

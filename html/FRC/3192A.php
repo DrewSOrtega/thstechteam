@@ -23,6 +23,9 @@ img{
 </head>
 <body>
 <?php include('../menu.php'); ?>
+<div class="bodytext">
+	
+</div>
 
 
 

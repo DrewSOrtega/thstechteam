@@ -15,6 +15,7 @@
 <body>
 <?php include('../menu.php'); ?>
 		<div class="maint">
+			<div class="bodytext">
 			<h1>FTC Team 750</h1>
 			<img src="../../image/ftcpics/750.jpg" width=50% height=auto style="float: right;"/> 
 				<ul>
@@ -33,6 +34,7 @@
 				<li id="coach">Coaches: Mr. Doberenz and Mr. Cox</li>
 			</ul>
 			<br />
+			</div>
 		</div>
 </html>
 </body>
