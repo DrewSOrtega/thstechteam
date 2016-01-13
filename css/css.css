@@ -7,6 +7,7 @@ body{
 	left: 0px;
 	color: white;
 	background-image: url("../image/ths.jpg");
+	background-repeat: no-repeat;
     	background-color: #cccccc;
 }
 .maint{
