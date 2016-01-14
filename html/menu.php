@@ -1,4 +1,3 @@
-<?php echo'
 <head>
 	<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
 	<title>Home</title>
@@ -71,4 +70,3 @@
 <font size="+2" color="bronze">Mentor Graphics Association - $5000&nbsp;&nbsp</font>
 </marquee>
 </body>
-'?>
