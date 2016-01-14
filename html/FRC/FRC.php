@@ -37,7 +37,7 @@ time and talents to guide each team.</i></blockquote>
 
 </hr>
 <h3><i>This year's game</i></h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FVLdJdoKK2E" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VqOKzoHJDjA" frameborder="0" allowfullscreen></iframe>
 <p>On Saturday after the game release, we met in TNET, downloaded the Game Manual, made copies for each of the specialty 
 teams and began to read. By noon when the rest of the FRC Team gathered for their reveal, we had inventoried the KoP,
 laid it out for inspection by the team, read the Game Manual and developed a brief demonstration to further explain the 
