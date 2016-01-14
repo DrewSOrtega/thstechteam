@@ -29,7 +29,6 @@ h4{
 margin-left:6%;
 }
 div {
-	width:88%;
 	margin:auto;
 }
 img{
