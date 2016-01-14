@@ -41,7 +41,7 @@ img{
 <li>Joshua Rider</li>
 <li>Allison Shultz</li>
 <li>Connor Jacobson</li>
-<li id="coach">Coaches: Mr. Colgrove and Ms. Cox</li>
+<li id="coach">Coaches: Mr. Colgrove, Ms. Cox, and Mr. Ngyuen</li>
 </ul>
 <br />
 </div>
