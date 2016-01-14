@@ -28,9 +28,6 @@ h3{
 h4{ 
 margin-left:6%;
 }
-div {
-	margin:auto;
-}
 img{
 float:right;
 width:auto;
