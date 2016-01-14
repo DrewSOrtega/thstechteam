@@ -51,8 +51,8 @@ completion of the presentations, each team leader was asked to "formalize" their
 to the assembled coaches and teammates, concentrating specifically on design capabilities and limitations.</p>
 
 <h1> Safety Animation</h1>
-<div style="margin:auto; width:90%; height:300px;">
-<iframe src="https://www.youtube.com/embed/o09Vb3HVSdQ" width="85%" height="85%" frameborder="0"></iframe>
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
+<iframe src="https://www.youtube.com/embed/o09Vb3HVSdQ" allowfullscreen frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 
 <h1 style="text-align: left;">The Team</h1>

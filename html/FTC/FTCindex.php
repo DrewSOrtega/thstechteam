@@ -33,10 +33,11 @@ students are responsible for designing, building, and programming their robots t
  of languages. Teams, including coaches, mentors and volunteers, are required to develop strategy and build 
  robots based on sound engineering principles. Awards are given for the competition as for well as for 
  community outreach, design, and other real-world accomplishments.
+ <p>
+ <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
+<iframe src="http://www.youtube.com/embed/aDJMn4-2Fp4?rel=0" allowfullscreen frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 </div>
-<div style="margin:auto; width:90%; height:300px;">
-<iframe src="http://www.youtube.com/embed/aDJMn4-2Fp4?rel=0" width="85%" height="85%" frameborder="0"></iframe>
 </div>
 </body>
 
