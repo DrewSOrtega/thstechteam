@@ -24,7 +24,7 @@ img{
 <body>
 <?php include('../menu.php'); ?>
 <div class="maint">
-<div class="bodytext">
+<div class="bodytext";>
 <h2 style="height:50px;">Team 3192 - TigerBytes</h2>
 
 <blockquote><i>"The varsity Sport for the Mind," FRC combines the excitement of sport with the rigors of science and technology. </br>
@@ -51,7 +51,7 @@ completion of the presentations, each team leader was asked to "formalize" their
 to the assembled coaches and teammates, concentrating specifically on design capabilities and limitations.</p>
 
 <h1> Safety Animation</h1>
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
+<div style="position:relative; width: 100%; height: 0; padding-bottom: 56.25%; z-index: 0;">
 <iframe src="https://www.youtube.com/embed/o09Vb3HVSdQ" allowfullscreen frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 

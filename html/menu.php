@@ -9,7 +9,7 @@
 	</style>
 </head>
 <body>
-<div style="position:fixed;left:0px;top:0px;width:100%;">
+<div style="position:fixed;left:0px;top:0px;width:100%;z-index:10;">
 		<div class="background">
 			<div class="navbar">
 					<div class="navbuttHome">
@@ -63,7 +63,7 @@
 			</div>
 		</div>
 <!--<iframe scrolling="yes" name="_self"></iframe>-->
-<marquee direction="left" scrollamount="4px">
+<marquee direction="left" scrollamount="4px" style="z-index:10;">
 <font size="+2" color="gold">Lam Research - $12000&nbsp;&nbsp;</font>
 <font size="+2" color="gold">Oregon Department of Education - $7000&nbsp;&nbsp</font>
 <font size="+2" color="gold">KATU and Sinclair Broadcast Group - $3600&nbsp;&nbsp</font>
