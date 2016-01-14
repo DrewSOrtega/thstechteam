@@ -65,8 +65,8 @@ background-color: #006400;
 	}
 /*Links and Other Generic Styling*/
 a:link {color:#000;}
-a:hover {color:#FFF;}
 a:visited {color:#000;}
+a:hover {color:#FFF;}
 h1 {
 text-align:center;
 color:black;
