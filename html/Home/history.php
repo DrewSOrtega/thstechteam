@@ -9,14 +9,13 @@
 	<link rel="stylesheet" type="text/css" href="../../css/css.css">
 	<link rel="stylesheet" type="text/css" href="../../css/navbar.css">
 	<style type="text/css" media="all">
-h1{ text-align:center;
-	color:black;
+h1{ 
+	text-align:center;
 	font-weight:bold;
 	font-size: 50px;
 }
 h2{
 	text-align:center;
-	color:black;
 	font-weight:bold;
 	font-size:22px;
 }
