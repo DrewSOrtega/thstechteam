@@ -172,7 +172,7 @@ They all had fun and learned a lot. Hosting on January 28-29, Tigard High School
  <div>
  The team of robotic enthusiasts wanted to expand their understanding of robots. So they dived into SeaPerch and formed nine 
  teams, each being a three-person group. Since they were the only group in Oregon, except for INST Bruce
- Conway, that were participating in SeaPearch; they decided to host their own event. Luckily Evergreen
+ Conway, that were participating in SeaPerch; they decided to host their own event. Luckily Evergreen
  Aviation &amp; Space Museum - Waterpark, provided their facilities for them to use. It was all great fun and
  the team is ready for next year's challenge.
  </div>
