@@ -40,7 +40,7 @@ height:200px;
 <div class="bodytext">
 <h1>History</h1>
 <h2>The start of something big</h2>
-<h3 style="text-align:justify;">In 2006 four boys with Stevie Vaine (Tigard High School Computer Science and Information Technology 
+<h3 style="text-align:justify;">In 2006 four boys with Stevie Viaene (former Tigard High School Computer Science and Information Technology 
 teacher) founded the THS Robotics Team. They started with a FVC (First Vex Challenge) robotics kit and 
 received their team number, 750. Their efforts to build a viable robot were not successful and they did 
 not compete in any FTC events that year.</h3>
