@@ -37,32 +37,6 @@ marquee {
 	background-color:#57B568;
 	z-index: 0;
 	}
-.tempnav {
-	height:28px;
-	width:100%;
-	background-color:#003300;
-	text-align:center;
-	margin:auto;
-	z-index: 6;
-	}
-.tempbutt {
-float:left;
-display:block;
-height:20px;
-width:24.15%;
-font-weight:bold;
-color:#FFFFFF;
-background-color:#003300;
-text-align:center;
-padding:4px;
-margin:auto;
-overflow: hidden;
-text-decoration:none;
-text-transform:uppercase;
-	}
-.tempbutt:hover{
-background-color: #006400;
-	}
 /*Links and Other Generic Styling*/
 a:link {color:#000;}
 a:visited {color:#000;}
