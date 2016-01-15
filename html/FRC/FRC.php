@@ -10,7 +10,8 @@
 	<link rel="stylesheet" type="text/css" href="../../css/css.css">
 	<link rel="stylesheet" type="text/css" href="../../css/navbar.css">
 	<style type="text/css" media="all">
-h1{ text-align:center;
+h1{ 
+	text-align:center;
 	color:black;
 	font-weight:bold;
 	font-size: 50px;
@@ -36,8 +37,10 @@ time and talents to guide each team.</i></blockquote>
 
 
 </hr>
-<h3><i>This year's game</i></h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VqOKzoHJDjA" frameborder="0" allowfullscreen></iframe>
+<h1 style="color: white;"><i>This Year's Game</i></h1>
+<div style="position:relative; width: 100%; height: 0; padding-bottom: 56.25%; z-index: 0;">
+<iframe src="https://www.youtube.com/embed/VqOKzoHJDjA" allowfullscreen frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 <p>On Saturday after the game release, we met in TNET, downloaded the Game Manual, made copies for each of the specialty 
 teams and began to read. By noon when the rest of the FRC Team gathered for their reveal, we had inventoried the KoP,
 laid it out for inspection by the team, read the Game Manual and developed a brief demonstration to further explain the 
