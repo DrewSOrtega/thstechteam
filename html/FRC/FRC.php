@@ -53,12 +53,12 @@ general idea- a maneuverable chassis with a fork-lift like devise on the front e
 completion of the presentations, each team leader was asked to "formalize" their ideas for presentation that Tuesday night
 to the assembled coaches and teammates, concentrating specifically on design capabilities and limitations.</p>
 
-<h1> Safety Animation</h1>
+<h1 style="color: white;"> Safety Animation</h1>
 <div style="position:relative; width: 100%; height: 0; padding-bottom: 56.25%; z-index: 0;">
 <iframe src="https://www.youtube.com/embed/o09Vb3HVSdQ" allowfullscreen frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 
-<h1 style="text-align: left;">The Team</h1>
+<h1 style="text-align: left; color: white;">The Team</h1>
 <ul>
 <li>Odalis Angeles</li>
 <li>Johannes Bromander</li>
