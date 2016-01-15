@@ -23,6 +23,7 @@ img{
 </head>
 <body>
 <?php include('../menu.php'); ?>
+<br><br>
 <div style="margin:auto; width:90%; height:700px;">
 <iframe src="https://www.google.com/calendar/embed?src=qip9g4lbpp59sdoa3l5f2o1qi4%40group.calendar.google.com&ctz=America/Los_Angeles" width="85%" height="85%"></iframe>
 </div>
