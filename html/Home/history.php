@@ -10,6 +10,7 @@
 	<link rel="stylesheet" type="text/css" href="../../css/navbar.css">
 	<style type="text/css" media="all">
 h1{ 
+	color: white;
 	text-align:center;
 	font-weight:bold;
 	font-size: 50px;
