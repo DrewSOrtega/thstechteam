@@ -201,7 +201,7 @@ We fielded four teams this year<br>
 <b>Team 3965:</b> India Silver(Captain) Niah Klotz, Michael Mota, Michelle Alvarado<br>
 <b>Team 4097:</b> Ian Roberts (Captain) Abbey Lewis, Johannes Bromander, Jonathan Le
 </div>
-<h4>FTC Season</h4>
+<h4>FRC Season</h4>
 <div>
 <b>Team 3192:</b> Michael Yeo, Laura Chapman, Alan Haynes, Grant Fullerton, Gery Hristova, Troy Laviolette, Chase Ford<br>
 <b>Coaches</b> Steve Fulton, Denney Cole, Russ Ellavsky, Matt Gould, Chris Mooney, Scott Webster
