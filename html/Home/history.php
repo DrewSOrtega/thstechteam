@@ -31,6 +31,7 @@ img{
 float:right;
 width:auto;
 height:200px;
+padding:7px;
 }
 
 </style>
