@@ -162,7 +162,7 @@ They all had fun and learned a lot. Hosting on January 28-29, Tigard High School
  </div>
  <h4>Bunnybots</h4>
  <div>
- In one match, we scored 10 of the 14 points our alliance scored
+ In one match, we scored 10 of the 14 points our alliance scored.
  </div>
  <h4>Oregon Game Project Challenge</h4>
  <div>
