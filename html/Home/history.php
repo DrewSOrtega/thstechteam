@@ -187,7 +187,7 @@ We fielded four teams this year<br>
 <b>Team 3965:</b> Keven  Mortensen, Michael Mota, Grant Fullerton (Captain), Troy Laviolette, Chandler Gallick and Charles Espenship. Advanced to State Championship Tournament.<br>
 <b>Team 4097:</b> Abbey Lewis, Gery Hristova, India Silver and Jennifer Deets (Captain). Evergreen Space and Aviation Museum State Qualifying Tournament Motivate Award Trophy, Advanced to State Championship Tournament, Oregon State Championship Tournament Motivate Award Winner.
 </div>
-<h4>FTC Season</h4>
+<h4>FRC Season</h4>
 <div>
 <b>Team 3192:</b> Jack Scultz, Kail Mcgrath, Greg Collins, Alan Haynes, Cliff Daniels, Micheal Teo, Aurora Seeber, Thomas Woodward, Mackenzie Gray (Captain) Joshua Zheng (Captain),  Andrew Barnes, Laura Chapman, Margaret Lang, Chris Mooney, Matt Gould, Eric Woodward, Steve Fulton, Alex Kane, Denney Cole, Chris Gardella, Reza Fouladian, Narin Luangrath, Michelle Vollmuller, and Ty Walsh<br>
  </div>
