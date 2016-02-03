@@ -23,5 +23,74 @@ img{
 </head>
 <body>
 <?php include('../menu.php'); ?>
+<div class="bodytext maint">
+<h2>Group H Competition Results</h2>
+<table border="1">
+	<tr>
+		<th>Week</th>
+		<th>Win/Loss</th>
+		<th>Challenger</th>
+	</tr>
+	<tr>
+		<td>Week 1</td>
+		<td>Win</td>
+		<td>Grant Union High</td>
+	</tr>
+	<tr>
+		<td>Week 2</td>
+		<td>Tie</td>
+		<td>Servite High B</td>
+	</tr>
+	<tr>
+		<td>Week 3</td>
+		<td>Loss</td>
+		<td>Walnut HS C</td>
+	</tr>
+	<tr>
+		<td>Week 4</td>
+		<td>Loss</td>
+		<td>North Hollywood High</td>
+	</tr>
+	<tr>
+		<td>Week 5</td>
+		<td>Win</td>
+		<td>Sunset High</td>
+	</tr>
+	<tr>
+		<td>Week 6</td>
+		<td>Loss</td>
+		<td>Corona High A</td>
+	</tr>
+	<tr>
+		<td>Week 7</td>
+		<td>Loss</td>
+		<td>West Covina High B</td>
+	</tr>
+	<tr>
+		<td>Week 8</td>
+		<td>Loss</td>
+		<td>Wallenburg High</td>
+	</tr>
+	<tr>
+		<td>Week 9</td>
+		<td>Loss</td>
+		<td>Arroyo Grande High B</td>
+	</tr>
+	<tr>
+		<td>Place</td>
+		<td colspan="2">51st/88</td>
+	</tr>
+</table>
+<h2>Roster</h2>
+<ul>
+  <li>Noah Hill (Team Captain)</li>
+  <li>Jessy Do</li>
+  <li>Dan Field</li>
+  <li>Ethan Oshima</li>
+  <li>Chase Warren</li>
+  <li>Kenneth Huynh</li>
+  <li>Jetavian Bernard</li>
+</ul>
+</div>
 </body>
 </html>
