@@ -33,7 +33,7 @@ Our FRC team has split into two smaller teams in order to tackle our next big ev
 <br/><br/><br/>
 
 Tigard also has a very expansive Information Technology course selection. With over six Microsoft certifications offered, 
-the students leave with plenty of training. We arleady earned over 60 certifications this fall, and Mentor Graphics helping to pay for this years certifications, we are looking forward the upcoming season.
+the students leave with plenty of training. We already earned over 60 certifications this fall, and Mentor Graphics helping to pay for this years certifications, we are looking forward the upcoming season.
 </div>
 <br/></br>
 <img src="../../image/Lam_logo.png" width="33%"/>
