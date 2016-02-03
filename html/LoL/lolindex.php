@@ -23,7 +23,13 @@ img{
 </head>
 <body>
 <?php include('../menu.php'); ?>
-		<!-- Page content goes here -->
+<p>This year we signed up for High School StarLeague, a League of Legends tournament where our teams compete against other 
+high schoolers from around the country. In the first season, we had five teams compete, and our top team placed eighth out 
+of eightyeight, With a score of 18. Now we are partially through our second season, but we only have two teams competeing.
+<br/><br/>
+The top four teams from each group get a chance to travel to california to compete locally against the other top teams, 
+the winner of that competition takes home a prize of cash.
+</p>
 	</body>
  
 </html>
