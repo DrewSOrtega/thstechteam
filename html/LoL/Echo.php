@@ -23,5 +23,72 @@ img{
 </head>
 <body>
 <?php include('../menu.php'); ?>
+<div class="bodytext maint">
+<h2>Group G Competition Results</h2>
+<table border="1">
+	<tr>
+		<th>Week</th>
+		<th>Win/Loss</th>
+		<th>Challenger</th>
+	</tr>
+	<tr>
+		<td>Week 1</td>
+		<td>Loss</td>
+		<td>Clovis High</td>
+	</tr>
+	<tr>
+		<td>Week 2</td>
+		<td>Loss</td>
+		<td>Walnut High B</td>
+	</tr>
+	<tr>
+		<td>Week 3</td>
+		<td>Loss</td>
+		<td>e3 Civic High</td>
+	</tr>
+	<tr>
+		<td>Week 4</td>
+		<td>Win</td>
+		<td>De La Salle Concord</td>
+	</tr>
+	<tr>
+		<td>Week 5</td>
+		<td>Loss</td>
+		<td>Francisco Bravo Medical Magent High</td>
+	</tr>
+	<tr>
+		<td>Week 6</td>
+		<td>Loss</td>
+		<td>Servite High C</td>
+	</tr>
+	<tr>
+		<td>Week 7</td>
+		<td>Tie</td>
+		<td>Centennial High D</td>
+	</tr>
+	<tr>
+		<td>Week 8</td>
+		<td>Win</td>
+		<td>Evergreen High</td>
+	</tr>
+	<tr>
+		<td>Week 9</td>
+		<td>Loss</td>
+		<td>Edison High B</td>
+	</tr>
+	<tr>
+		<td>Place</td>
+		<td colspan="2">45th/88</td>
+	</tr>
+</table>
+<h2>Roster</h2>
+<ul>
+  <li>Ethan Vo (Team Captain)</li>
+  <li>Henson Tran</li>
+  <li>Joshua Davis</li>
+  <li>Matthew Burnette</li>
+  <li>Everett Bishop</li>
+</ul>
+</div>
 </body>
 </html>
