@@ -20,8 +20,6 @@
 					</div>
 					<div class="navbuttFRC">
 						<a href="../FRC/FRC.php" class="linkage" target="_self">FRC</a>
-						</br></br>
-						<a href="../FRC/3192A.php" class="linkage" target="_self">3192A</a>	
 					</div>
 						<div class="navbuttFTC">
 						<a href="../FTC/FTCindex.php" class="linkage" target="_self">FTC</a>
