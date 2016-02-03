@@ -23,7 +23,7 @@ img{
 </head>
 <body>
 <?php include('../menu.php'); ?>
-<div class="bodytext">
+<div class="bodytext maint">
 <h2>Group F Competition Results</h2>
 <table border="1">
 	<tr>
