@@ -39,42 +39,42 @@ img{
 	<tr>
 		<td>Week 2</td>
 		<td>Win</td>
-		<td>Concord High</td>
+		<td>Fife High</td>
 	</tr>
 	<tr>
 		<td>Week 3</td>
 		<td>Loss</td>
-		<td>Concord High</td>
+		<td>SC & TA A</td>
 	</tr>
 	<tr>
 		<td>Week 4</td>
 		<td>Win</td>
-		<td>Concord High</td>
+		<td>Gabrielino High</td>
 	</tr>
 	<tr>
 		<td>Week 5</td>
 		<td>Win</td>
-		<td>Concord High</td>
+		<td>Rancho Verde High</td>
 	</tr>
 	<tr>
 		<td>Week 6</td>
 		<td>Loss</td>
-		<td>Concord High</td>
+		<td>Garden Grove High</td>
 	</tr>
 	<tr>
 		<td>Week 7</td>
 		<td>Win</td>
-		<td>Concord High</td>
+		<td>La Quinta High</td>
 	</tr>
 	<tr>
 		<td>Week 8</td>
 		<td>Loss</td>
-		<td>Concord High</td>
+		<td>Fleetwood Park Secondary High</td>
 	</tr>
 	<tr>
 		<td>Week 9</td>
 		<td>Win</td>
-		<td>Concord High</td>
+		<td>Menlo-Atherton High A</td>
 	</tr>
 	<tr>
 		<td>Place</td>
