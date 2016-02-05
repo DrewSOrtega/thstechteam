@@ -76,6 +76,7 @@ img{
 		in the high school and throughout the community.</p>	
 	</div>
 	<div class="maint-right">
+		<br/><br/><br/>
 		<img src="../../image/Lam_logo.png" width="95%"/>
 		<br>
 		<img src="../../image/mentor_logo.gif" width="95%"/>
