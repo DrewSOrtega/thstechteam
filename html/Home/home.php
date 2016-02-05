@@ -83,7 +83,9 @@ the students leave with plenty of training. We already earned over 60 certificat
 <img src="../../image/mentor_logo.gif" width="33%"/>
 <img src="../../image/odot_logo.jpg" width="33%"/>
 <br><br><br><br><br>
-
+<br>
+<br>
+<br>
 
 
 </div>
