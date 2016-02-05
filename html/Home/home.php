@@ -72,8 +72,7 @@ img{
 <div class="bodytext">
 Tigard high has one of the largest and most diverse technology teams in the state. The students compete in many events throughout the year.
 We compete in programming and robotics, with our team consisting of over fifty members. The Robotics portion of our team includes four FTC (4097, 3965, 3058 and 750) and two FRC teams. We recently formed a SeaPerch team and will be competing this year. We also introduced a League of Legends program. So far we have five teams competing online on the North American server, high school division. They are competing for prize money.
-Our FRC team has split into two smaller teams in order to tackle our next big event, BunnyBots. The division of labor will give us a great head start to this years challenge.
-<br/><br/><br/>
+<br/><br/>
 
 Tigard also has a very expansive Information Technology course selection. With over six Microsoft certifications offered, 
 the students leave with plenty of training. We already earned over 60 certifications this fall, and Mentor Graphics helping to pay for this years certifications, we are looking forward the upcoming season.
