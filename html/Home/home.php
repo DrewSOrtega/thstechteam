@@ -27,8 +27,6 @@ img{
 <h1>Tigard High School Technology Team</h1>
 <div class="maint"><div class="bodytext">
 	<h1>News:</h1>
-	<br>
-	<br>
 	<p>Over the weekend, our four FTC teams competed against 20 other teams from the Portland and Beaverton Leagues
  	to see who would advance to the next round of competition, the Oregon Super-Qualifier Tournaments
  	13-14FEB enroute to the Oregon State Championships 27-28FEB.  Representing Tigard High School were:
