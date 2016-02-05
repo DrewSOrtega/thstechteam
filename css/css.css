@@ -13,7 +13,6 @@ body{
 	background-size: cover;
 }
 .maint{
-	clear: both;
 	margin:auto;
 	width:65%;
 	text-align: justify;
@@ -34,6 +33,7 @@ body{
 	padding: 0px;
 }
 .bodytext {
+	overflow: hidden;
 	clear: both;
 	background-color: rgba(0,0,0,0.45);
 	padding: 8px;
