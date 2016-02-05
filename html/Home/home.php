@@ -76,13 +76,12 @@ img{
 		in the high school and throughout the community.</p>	
 	</div>
 	<div class="maint-right">
-		<img src="../../image/Lam_logo.png" width="19%"/>
+		<img src="../../image/Lam_logo.png" width="99%"/>
 		<br>
-		<img src="../../image/mentor_logo.gif" width="19%"/>
+		<img src="../../image/mentor_logo.gif" width="99%"/>
 		<br>
-		<img src="../../image/odot_logo.jpg" width="19%"/>
+		<img src="../../image/odot_logo.jpg" width="99%"/>
 	</div>
-	clear: both;
 </div>
 <br>
 <div class="bodytext">
