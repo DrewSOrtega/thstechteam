@@ -209,6 +209,11 @@ We fielded four teams this year<br>
 <br/><br/>
 <h3>Years 2014-2015</h3>
 <h3>Years 2015-2016</h3>
+We fielded four teams this year<br>
+<b>Team 750:</b> Darby Cox, Cameron Doughty, Ethan Gazin, Ryan Hardinge, Julian Lethbridge, McGuire Meek, Jesus Mendoza, Cao-duy Nguyen, Hoang Nguyen, Daniel Smotkin, Tyler Walker<br>
+<b>Team 3058:</b> Jaun Andreos Emma Barbee, Jan Carlson, Zack Carter, Reed Colgrove, Jason Ettenberger, Payton Johnson, Ryan Kirkpatrick, Timothy Peel, Nodica Peel, James Shea<br>
+<b>Team 3965:</b> Joshua Hancock, Joshua Harrington, Abdullah Haswarey, Sidarth Karki, Derian Rambo, Jacob Stollberg, Sid Sylace, Ethan Vo, Robert Wellock, Derek Williams<br>
+<b>Team 4097:</b> Slincia Clemens, Sophia Crawford, Jacob Demmin, James Doan, Trenton Freeman, Grace Harestad, Justin Lemke, Manson Meek, Jason Nesbitt, Joshua Rider, Allison Shultz, Connor Jacobson<br>
 </div>
 </div>
 </body>
