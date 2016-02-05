@@ -67,6 +67,12 @@ img{
 	Josh Hancock, and Grace Harestad.  All four had extensive written endorsements to support their nominations
 	and during the morning judging, met with a board of three judges for interviews.  At the end of the day, all
 	four Tigard nominees were selected to advance to the State Championship level 27-28FEB.  </p>
+	<p>Tigard is also prominent in doing its part to take care of the environment. The local community is invited to donate
+	technology they no longer need to the team, and students are tasked with parting out, reusing or safely disposing of unneeded
+	technology. Through a connection TigerBytes formed with a local eCycling company (now nearing five years of partnership), 
+	our team has been responsible for providing the local community with a place to recycle technology and help keep heavy metals
+	from contaminating the earth. Applying skills learned in class, the team then builds computers to donate to needy students both
+	in the high school and throughout the community.</p>
 </div>
 <br>
 <div class="bodytext">
