@@ -26,9 +26,10 @@ body{
 	padding: 0px;
 }
 .maint-right{
+	padding:8px;
 	float: right;
 	margin: 0px;
-	width:30%;
+	width:39%;
 	text-align: justify;
 	padding: 0px;
 }
