@@ -13,6 +13,7 @@ body{
 	background-size: cover;
 }
 .maint{
+	clear: both;
 	margin:auto;
 	width:65%;
 	text-align: justify;
