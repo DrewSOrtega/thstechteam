@@ -170,7 +170,7 @@ They all had fun and learned a lot. Hosting on January 28-29, Tigard High School
  Team 920 and Team 921, headed to the 
  competition. Only Team 921 came home with the professionalism award.
  </div>
- <h4>SeaPerch</h3>
+ <h4>SeaPerch</h4>
  <div>
  The team of robotic enthusiasts wanted to expand their understanding of robots. So they dived into SeaPerch and formed nine 
  teams, each being a three-person group. Since they were the only group in Oregon, except for INST Bruce
