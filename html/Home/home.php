@@ -77,11 +77,11 @@ img{
 	</div>
 	<div class="maint-right">
 		<br/><br/><br/>
-		<img src="../../image/Lam_logo.png" width="95%"/>
+		<img src="../../image/Lam_logo.png" alt="Lam Research" width="95%"/>
 		<br>
-		<img src="../../image/mentor_logo.gif" width="95%"/>
+		<img src="../../image/mentor_logo.gif" alt="Mentor Graphics" width="95%"/>
 		<br>
-		<img src="../../image/odot_logo.jpg" width="95%"/>
+		<img src="../../image/odot_logo.jpg" alt="Oregon Department of Education" width="95%"/>
 	</div>
 </div>
 <br>
