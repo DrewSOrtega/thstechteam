@@ -1,13 +1,3 @@
-<head>
-	<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
-	<title>Home</title>
-	<meta http-equiv="Content-Language" content="en-us" />
-	<meta name="author" content="Your Name Goes Here" />
-	<link rel="shortcut icon" href="/image/powert.png">
-	<style type="text/css" media="all">
-	</style>
-</head>
-<body>
 <div style="position:fixed;left:0px;top:0px;width:100%;z-index:10;">
 		<div class="background">
 			<div class="navbar">
@@ -65,4 +55,3 @@
 <font size="+2" color="bronze">THS Parent Support Organization (PSO) - $1000&nbsp;&nbsp</font>
 <font size="+2" color="bronze">Mentor Graphics Association - $5000&nbsp;&nbsp</font>
 </marquee>
-</body>
