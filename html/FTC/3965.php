@@ -28,7 +28,7 @@ img{
 			<h1>FTC Team 3965</h1>
 			<ul>
 			<h2>Roster</h2>
-			<img src="../../image/ftcpics/3965.jpg" width=50% height=auto style="float: right;"/> 
+			<img src="../../image/ftcpics/3965.jpg" alt="Team 3965" width=50% height=auto style="float: right;"/> 
 				<li>Joshua Hancock</li>
 				<li>Joshua Harrington</li>
 				<li>Abdullah Haswarey</li>
