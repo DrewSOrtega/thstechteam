@@ -17,7 +17,7 @@
 		<div class="maint">
 			<div class="bodytext">
 			<h1>FTC Team 750</h1>
-			<img src="../../image/ftcpics/750.jpg" width=50% height=auto style="float: right;"/> 
+			<img src="../../image/ftcpics/750.jpg" alt="Team 750" width=50% height=auto style="float: right;"/> 
 				<ul>
 				<h2>Roster</h2>
 				<li>Darby Cox</li>
