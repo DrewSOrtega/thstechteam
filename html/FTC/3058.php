@@ -18,7 +18,7 @@
 			<h1>FTC Team 3058</h1>
 			<ul>
 			<h2>Roster</h2>
-			<img src="../../image/ftcpics/3058.jpg" width=50% height=auto style="float: right;"/> 
+			<img src="../../image/ftcpics/3058.jpg" alt="Team 3058" width=50% height=auto style="float: right;"/> 
 				<li>Jaun Andreos</li>
 				<li>Emma Barbee</li>
 				<li>Jan Carlson</li>
