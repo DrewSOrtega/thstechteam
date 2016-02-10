@@ -28,7 +28,7 @@ img{
 <h1>FTC Team 4097</h1>
 <ul>
 <h2>Roster</h2>
-<img src="../../image/ftcpics/4097.jpg" width=50% height=auto style="float: right;"/> 
+<img src="../../image/ftcpics/4097.jpg" alt="Team 4097" width=50% height=auto style="float: right;"/> 
 <li>Slincia Clemens</li>
 <li>Sophia Crawford</li>
 <li>Jacob Demmin</li>
