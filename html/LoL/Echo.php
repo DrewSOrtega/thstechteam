@@ -24,6 +24,7 @@ img{
 <body>
 <?php include('../menu.php'); ?>
 <div class="bodytext maint">
+<h1 style="text-align:center;">Team Echo</h1>
 <h2>Group G Competition Results</h2>
 <table border="1">
 	<tr>
@@ -88,6 +89,7 @@ img{
   <li>Joshua Davis</li>
   <li>Matthew Burnette</li>
   <li>Everett Bishop</li>
+  </br>
 </ul>
 </div>
 </body>
