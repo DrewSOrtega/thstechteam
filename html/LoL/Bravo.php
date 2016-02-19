@@ -24,6 +24,7 @@ img{
 <body>
 <?php include('../menu.php'); ?>
 <div class="bodytext maint">
+<h1 style="text-align:center;">Team Bravo</h1>
 <h2>Group F Competition Results</h2>
 <table border="1">
 	<tr>
@@ -90,6 +91,7 @@ img{
   <li>Isaiah Spahan</li>
   <li>Isaiah Hollingsworth</li>
   <li>Byran Smith</li>
+  </br>
 </ul>
 </div>
 </body>
