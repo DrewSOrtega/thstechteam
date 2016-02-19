@@ -24,6 +24,7 @@ img{
 <body>
 <?php include('../menu.php'); ?>
 <div class="bodytext maint">
+<h1 style="text-align:center;">Team Delta</h1>
 <h2>Group H Competition Results</h2>
 <table border="1">
 	<tr>
@@ -90,6 +91,7 @@ img{
   <li>Austin Dufort</li>
   <li>Lawson Dietz</li>
   <li>Marco Predovic</li>
+  </br>
 </ul>
 </div>
 </body>
