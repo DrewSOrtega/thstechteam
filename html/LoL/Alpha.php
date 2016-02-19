@@ -91,7 +91,7 @@ img{
   <li>Justin Tran</li>
   <li>Blake Le</li>
   <li>Alex Foroughi</li>
-  </br></br>
+  </br>
 </ul>
 </div>
 </body>
