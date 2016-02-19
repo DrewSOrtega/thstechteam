@@ -11,7 +11,7 @@
 	<link rel="stylesheet" type="text/css" href="../../css/navbar.css">
 	<style type="text/css" media="all">
 h1{ text-align:center;
-	color:black;
+	color:white;
 	font-weight:bold;
 	font-size: 50px;
 }
@@ -91,6 +91,7 @@ img{
   <li>Justin Tran</li>
   <li>Blake Le</li>
   <li>Alex Foroughi</li>
+  </br></br>
 </ul>
 </div>
 </body>
