@@ -30,14 +30,14 @@ img{
 <br>
 <h2>Roster</h2>
 <ul>
-  <li>Austin Liu (Team Captain)</li>
-  <li>Peter Kwak</li>
-  <li>Evan Consani</li>
-  <li>Kevin Olson</li>
-  <li>Justin Tran</li>
-  <li>Blake Le</li>
-  <li>Alex Foroughi</li>
-  </br>
+  <li>Parker Chiapuzio (Team Captain)</li>
+  <li>Delan Huang</li>
+  <li>Kai Pinckard</li>
+  <li>Tabor Holly</li>
+  <li>Phan Thanh Minh Duc</li>
+  <li>Zander Eisenhower</li>
+  <li>Drew Ortega</li>
+  <li>Huang Nguyen</li>
 </ul>
 </div>
 </div>
