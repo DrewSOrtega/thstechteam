@@ -37,8 +37,6 @@ img{
 				<li>Jacob Stollberg</li>
 				<li>Sid Sylace</li>
 				<li>Ethan Vo</li>
-				<li>Robert Wellock</li>
-				<li>Derek Williams</li>
 				<li id="coach">Coaches: Mr. Hancock and Mr. Hansen</li>
 			</ul>
 			<br />
