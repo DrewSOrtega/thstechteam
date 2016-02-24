@@ -19,7 +19,7 @@
 			<ul>
 			<h2>Roster</h2>
 			<img src="../../image/ftcpics/3058.jpg" alt="Team 3058" width=50% height=auto style="float: right;"/> 
-				<li>Jaun Andreos</li>
+				<li>Jalin Andrews</li>
 				<li>Emma Barbee</li>
 				<li>Jan Carlson</li>
 				<li>Zack Carter</li>
@@ -27,10 +27,8 @@
 				<li>Jason Ettenberger</li>
 				<li>Payton Johnson</li>
 				<li>Ryan Kirkpatrick</li>
-				<li>Timothy Peel</li>
-				<li>Nodica Peel</li>
 				<li>James Shea</li>
-				<li id="coach">Coaches: Vacant</li>
+				<li id="coach">Coaches: Dale Daniels</li>
 			</ul>
 			<br />
 			</div>
