@@ -35,12 +35,12 @@ img{
 	<tr>
 		<td>Week 1</td>
 		<td>Loss</td>
-		<td>Fossil Ridge High</td>
+		<td>Fossil Ridge HS</td>
 	</tr>
 	<tr>
 		<td>Week 2</td>
 		<td>Loss</td>
-		<td>Independence High</td>
+		<td>Independence HS</td>
 	</tr>
 	<tr>
 		<td>Week 3</td>
@@ -50,22 +50,22 @@ img{
 	<tr>
 		<td>Week 4</td>
 		<td>Loss</td>
-		<td>Hilmar High</td>
+		<td>Hilmar HS</td>
 	</tr>
 	<tr>
 		<td>Week 5</td>
 		<td>Loss</td>
-		<td>Central City Value High</td>
+		<td>Central City Value HS</td>
 	</tr>
 	<tr>
 		<td>Week 6</td>
 		<td>Loss</td>
-		<td>High Tech High</td>
+		<td>High Tech HS</td>
 	</tr>
 	<tr>
 		<td>Week 7</td>
 		<td>Loss</td>
-		<td>Brighton High B</td>
+		<td>Brighton HS B</td>
 	</tr>
 	<tr>
 		<td>Week 8</td>
@@ -75,7 +75,7 @@ img{
 	<tr>
 		<td>Week 9</td>
 		<td>Loss</td>
-		<td>East High</td>
+		<td>East HS</td>
 	</tr>
 	<tr>
 		<td>Place</td>
