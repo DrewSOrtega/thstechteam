@@ -37,8 +37,6 @@ img{
 <li>Grace Harestad</li>
 <li>Justin Lemke</li>
 <li>Manson Meek</li>
-<li>Jason Nesbitt</li>
-<li>Joshua Rider</li>
 <li>Allison Shultz</li>
 <li>Connor Jacobson</li>
 <li id="coach">Coaches: Mr. Colgrove, Ms. Cox, and Mr. Ngyuen</li>
