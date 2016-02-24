@@ -43,7 +43,7 @@ padding:7px;
 <h1>History</h1>
 <h2>The start of something big</h2>
 <h3 style="text-align:justify;">In 2006 four boys with Stevie Viaene (former Tigard High School Computer Science and Information Technology 
-teacher) founded the THS Robotics Team. They started with a FVC (First Vex Challenge) robotics kit and 
+teacher) founded the THS Robotics Club. They started with a FVC (First Vex Challenge) robotics kit and 
 received their team number, 750. Their efforts to build a viable robot were not successful and they did 
 not compete in any FTC events that year.</h3>
 <!--h3 is used for the year-->
@@ -90,7 +90,7 @@ Tech Challenge (FTC) tournament at OMSI. Team 750 scored well enough to advance 
  scale robots any more. Having participated in two Intel Engineering Challenges and appeared in several 
  sporting venues, they felt they were ready to take on a new challenge: FIRST Robotics Competition (FRC)
  .They were awarded a NASA rookie grant for FRC and with other funds from fundraising activities Team 
- 3192 was established. With nine students and five coaches, they began.
+ 3192 was established. With nine students and five coaches, they began. 
 </div>
 <h3>2010-2011</h3><h4>FTC</h4>
 <div>
@@ -104,7 +104,7 @@ Team 3965, Twisted Metal, consisted of: Thomas Woodward (captain), Joshua Zheng,
  and Narin Luangrath. This team advanced to the state championships and finished 12th out of 24 teams at 
  the State Championship.
 Team 3058, The Jury Riggers, consisted of: Phillip Nguyen (captain), James Anderson, Christian Wong, and 
-Cliff Daniels. This team advanced to the state championships and finished 20th in state.FIRST Robotics
+Cliff Daniels. This team advanced to the state championships and finished 20th in state. FIRST Robotics
  Challenge (FRC)
 FRC is an extremely intense engineering challenge in which teams are given six weeks to design, build, 
 and program a robot that can compete against other robots in an engineering challenge. Unfortunately,
@@ -175,8 +175,7 @@ They all had fun and learned a lot. Hosting on January 28-29, Tigard High School
  The team of robotic enthusiasts wanted to expand their understanding of robots. So they dived into SeaPerch and formed nine 
  teams, each being a three-person group. Since they were the only group in Oregon, except for INST Bruce
  Conway, that were participating in SeaPerch; they decided to host their own event. Luckily Evergreen
- Aviation &amp; Space Museum - Waterpark, provided their facilities for them to use. It was all great fun and
- the team is ready for next year's challenge.
+ Aviation &amp; Space Museum - Waterpark, provided their facilities for them to use.
  </div>
  <h3>Years 2012-2013</h3>
  <div>
