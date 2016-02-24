@@ -55,7 +55,7 @@ img{
 	<tr>
 		<td>Week 5</td>
 		<td>Loss</td>
-		<td>Francisco Bravo Medical Magent HS</td>
+		<td>Francisco Bravo Medical Magnet HS</td>
 	</tr>
 	<tr>
 		<td>Week 6</td>
