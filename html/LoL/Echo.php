@@ -50,7 +50,7 @@ img{
 	<tr>
 		<td>Week 4</td>
 		<td>Win</td>
-		<td>De La Salle Concord HS</td>
+		<td>De La Salle HS</td>
 	</tr>
 	<tr>
 		<td>Week 5</td>
