@@ -38,6 +38,9 @@ img{
 
 		<p>Some stiff competition ahead!  Of the 44 teams still standing, and estimated 10 teams (ORTOP has not released the
 		final number) will be advancing to the Western Regionals in Oakland.  I hope we are ready!</p>
+		
+		<p>The IT program recently got a grant from the government, ensuring that all of our Certification tests are now 
+		free, (Yes, including the A+)</p>
 
 	</div>
 	<div class="maint-right">
