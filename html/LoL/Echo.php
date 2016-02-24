@@ -35,47 +35,47 @@ img{
 	<tr>
 		<td>Week 1</td>
 		<td>Loss</td>
-		<td>Clovis High</td>
+		<td>Clovis HS</td>
 	</tr>
 	<tr>
 		<td>Week 2</td>
 		<td>Loss</td>
-		<td>Walnut High B</td>
+		<td>Walnut HS B</td>
 	</tr>
 	<tr>
 		<td>Week 3</td>
 		<td>Loss</td>
-		<td>e3 Civic High</td>
+		<td>e3 Civic HS</td>
 	</tr>
 	<tr>
 		<td>Week 4</td>
 		<td>Win</td>
-		<td>De La Salle Concord</td>
+		<td>De La Salle Concord HS</td>
 	</tr>
 	<tr>
 		<td>Week 5</td>
 		<td>Loss</td>
-		<td>Francisco Bravo Medical Magent High</td>
+		<td>Francisco Bravo Medical Magent HS</td>
 	</tr>
 	<tr>
 		<td>Week 6</td>
 		<td>Loss</td>
-		<td>Servite High C</td>
+		<td>Servite HS C</td>
 	</tr>
 	<tr>
 		<td>Week 7</td>
 		<td>Tie</td>
-		<td>Centennial High D</td>
+		<td>Centennial HS D</td>
 	</tr>
 	<tr>
 		<td>Week 8</td>
 		<td>Win</td>
-		<td>Evergreen High</td>
+		<td>Evergreen HS</td>
 	</tr>
 	<tr>
 		<td>Week 9</td>
 		<td>Loss</td>
-		<td>Edison High B</td>
+		<td>Edison HS B</td>
 	</tr>
 	<tr>
 		<td>Place</td>
