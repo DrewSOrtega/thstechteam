@@ -79,8 +79,8 @@ Tech Challenge (FTC) tournament at OMSI. Team 750 scored well enough to advance 
  System (MLRS). By May they had a new robot in the house. They called their contraption TWAIN, an acronym 
  for Technology Without An Interesting Name. TWAIN made his first appearance during the Intel/Beavers 
  Engineering Challenge in May. The Beavers were so impressed that they paid them a stipend of $400 for 
- three appearances during the summer, money they used to pay for their next group of FTC robots.Oregon 
- Game Project Challenge<br/>
+ three appearances during the summer, money they used to pay for their next group of FTC robots.</br>
+ Oregon Game Project Challenge<br/>
  In 2010, members of the Tech Team were engaged in the Oregon Game Project Challenge. Three OGPC teams
  of 4-6 members each designed and programmed games that were judged by game and animation industry 
  professionals in Salem. The teams earned three awards:Programming Award 1st, Game Experience Award 1st, 
@@ -147,7 +147,7 @@ They all had fun and learned a lot. Hosting on January 28-29, Tigard High School
  automatic bids to the State Championship Tournament. 
  </div>
  <h4>FTC season</h4> 
- <div>The FTC robotics (small robots) teams
+ <div>The FTC robotics teams
  participated as competitors for the first time attending the Evergreen Aviation Qualifying Tournament on
  Saturday.  At their conclusion, 4097 had finished 8th, 3965 had finished 9th, 3058 11th and 750 12th of 
  the 24 teams present. Teams 4097 and 3965 each got a trophy, and everyone gained lots of experience. St 
