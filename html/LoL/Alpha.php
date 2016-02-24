@@ -35,12 +35,12 @@ img{
 	<tr>
 		<td>Week 1</td>
 		<td>Win</td>
-		<td>Concord High</td>
+		<td>Concord HS</td>
 	</tr>
 	<tr>
 		<td>Week 2</td>
 		<td>Win</td>
-		<td>Fife High</td>
+		<td>Fife HS</td>
 	</tr>
 	<tr>
 		<td>Week 3</td>
@@ -50,32 +50,32 @@ img{
 	<tr>
 		<td>Week 4</td>
 		<td>Win</td>
-		<td>Gabrielino High</td>
+		<td>Gabrielino HS</td>
 	</tr>
 	<tr>
 		<td>Week 5</td>
 		<td>Win</td>
-		<td>Rancho Verde High</td>
+		<td>Rancho Verde HS</td>
 	</tr>
 	<tr>
 		<td>Week 6</td>
 		<td>Loss</td>
-		<td>Garden Grove High</td>
+		<td>Garden Grove HS</td>
 	</tr>
 	<tr>
 		<td>Week 7</td>
 		<td>Win</td>
-		<td>La Quinta High</td>
+		<td>La Quinta HS</td>
 	</tr>
 	<tr>
 		<td>Week 8</td>
 		<td>Loss</td>
-		<td>Fleetwood Park Secondary High</td>
+		<td>Fleetwood Park Secondary HS</td>
 	</tr>
 	<tr>
 		<td>Week 9</td>
 		<td>Win</td>
-		<td>Menlo-Atherton High A</td>
+		<td>Menlo-Atherton HS A</td>
 	</tr>
 	<tr>
 		<td>Place</td>
