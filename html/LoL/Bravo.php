@@ -35,47 +35,47 @@ img{
 	<tr>
 		<td>Week 1</td>
 		<td>Loss</td>
-		<td>Olympus High</td>
+		<td>Olympus HS</td>
 	</tr>
 	<tr>
 		<td>Week 2</td>
 		<td>Loss</td>
-		<td>Buckeye Union High A</td>
+		<td>Buckeye Union HS A</td>
 	</tr>
 	<tr>
 		<td>Week 3</td>
 		<td>Win</td>
-		<td>Brighton High B</td>
+		<td>Brighton HS B</td>
 	</tr>
 	<tr>
 		<td>Week 4</td>
 		<td>Loss</td>
-		<td>Bishop Kelly High</td>
+		<td>Bishop Kelly HS</td>
 	</tr>
 	<tr>
 		<td>Week 5</td>
 		<td>Win</td>
-		<td>Independent High C</td>
+		<td>Independence HS C</td>
 	</tr>
 	<tr>
 		<td>Week 6</td>
 		<td>Loss</td>
-		<td>Lee Williams High</td>
+		<td>Lee Williams HS</td>
 	</tr>
 	<tr>
 		<td>Week 7</td>
 		<td>Loss</td>
-		<td>Hamilton High C</td>
+		<td>Hamilton HS C</td>
 	</tr>
 	<tr>
 		<td>Week 8</td>
 		<td>Win</td>
-		<td>International Polytechnic High A</td>
+		<td>International Polytechnic HS A</td>
 	</tr>
 	<tr>
 		<td>Week 9</td>
 		<td>Win</td>
-		<td>University High B</td>
+		<td>University HS B</td>
 	</tr>
 	<tr>
 		<td>Place</td>
