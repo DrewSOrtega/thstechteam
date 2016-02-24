@@ -40,6 +40,7 @@ img{
   <li>Tabor Holly</li>
   <li>Delan Huang</li>
   <li>Huang Nguyen</li>
+  <li><b>Coach: David Burnette</b></li>
 </ul>
 </div>
 </div>
