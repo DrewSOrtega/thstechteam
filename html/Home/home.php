@@ -133,7 +133,6 @@ the students leave with plenty of training. We already earned over 60 certificat
 <br>
 <br>
 
-
 </div>
 </body>
 </html>
