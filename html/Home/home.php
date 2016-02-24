@@ -55,7 +55,10 @@ img{
 <br>
 <div class="bodytext">
 Tigard high has one of the largest and most diverse technology teams in the state. The students compete in many events throughout the year.
-We compete in programming and robotics, with our team consisting of over fifty members. The Robotics portion of our team includes four FTC (4097, 3965, 3058 and 750) and two FRC teams. We recently formed a SeaPerch team and will be competing this year. We also introduced a League of Legends program. So far we have five teams competing online on the North American server, high school division. They are competing for prize money.
+We compete in programming and robotics, with our team consisting of over fifty members. The Robotics portion of our team includes four
+FTC (4097, 3965, 3058 and 750) and two FRC teams. We
+introduced a League of Legends program. Last season we had five teams compete, now we've narrowed it down to two.
+They are competing for prize money.
 <br/><br/>
 
 Tigard also has a very expansive Information Technology course selection. With six Microsoft certifications offered, as well as five CompTIA certifications,
