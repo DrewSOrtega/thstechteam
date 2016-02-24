@@ -67,7 +67,7 @@ img{
 		<ul>
 			<li>Students in this class will learn to install, configure, maintain and troubleshoot the Windows Operating System 7 with the goal of earning a Microsoft Certified Professional credential. Students will study self paced online instruction and perform hands on training while maintaining the Tigard High School computer labs and participating in the THS donation and recycling programs. The student will learn how to install, upgrade and migrate to Windows 7; configure hardware and applications; configure network connectivity; configure access to resources; configure mobile computing; monitor and maintain systems that run Windows 7; and configure backup and recovery options.</li>
 		</ul>
-		<li><h3>IT6: Windows 7 Desktop Support</h3></li>
+		<li><h3>IT6: Windows 8/8.1 configuration</h3></li>
 		<ul>
 			<li>Students in this class will learn to install, configure, maintain and troubleshoot the Windows Operating System 7 with the goal of earning a Microsoft Certified Professional credential. The student will learn study deployment planning, application adaptability, deployment troubleshooting, software configuration settings, application imaging, application troubleshooting, troubleshooting and repairing network applications, logon problems, device name resolution, network printers, system performance, data collector sets, hardware troubleshooting tools, memory and BIOS errors, wireless fundamentals, wireless connections, remote access, supporting remote users, Windows 7 security features, encryption solutions, and windows updates.</li>
 		</ul>
