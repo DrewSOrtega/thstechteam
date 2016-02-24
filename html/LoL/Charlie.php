@@ -35,12 +35,12 @@ img{
 	<tr>
 		<td>Week 1</td>
 		<td>Win</td>
-		<td>Grant Union High</td>
+		<td>Grant Union HS</td>
 	</tr>
 	<tr>
 		<td>Week 2</td>
 		<td>Tie</td>
-		<td>Servite High B</td>
+		<td>Servite HS B</td>
 	</tr>
 	<tr>
 		<td>Week 3</td>
@@ -50,32 +50,32 @@ img{
 	<tr>
 		<td>Week 4</td>
 		<td>Loss</td>
-		<td>North Hollywood High</td>
+		<td>North Hollywood HS</td>
 	</tr>
 	<tr>
 		<td>Week 5</td>
 		<td>Win</td>
-		<td>Sunset High</td>
+		<td>Sunset HS</td>
 	</tr>
 	<tr>
 		<td>Week 6</td>
 		<td>Loss</td>
-		<td>Corona High A</td>
+		<td>Corona HS A</td>
 	</tr>
 	<tr>
 		<td>Week 7</td>
 		<td>Loss</td>
-		<td>West Covina High B</td>
+		<td>West Covina HS B</td>
 	</tr>
 	<tr>
 		<td>Week 8</td>
 		<td>Loss</td>
-		<td>Wallenburg High</td>
+		<td>Wallenburg HS</td>
 	</tr>
 	<tr>
 		<td>Week 9</td>
 		<td>Loss</td>
-		<td>Arroyo Grande High B</td>
+		<td>Arroyo Grande HS B</td>
 	</tr>
 	<tr>
 		<td>Place</td>
