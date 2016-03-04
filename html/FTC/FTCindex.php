@@ -27,7 +27,6 @@ img{
 <h1>FTC</h1>
 <div class="maint">
 	<div class="bodytext">
-	<a href="http://thstechteam.org/html/Home/home.php">Click here to read about FTC's recent achievents.</a>
 <p>FTC is designed for those who want to compete head to head, using a sports model. Teams of up to ten 
 students are responsible for designing, building, and programming their robots to compete in an alliance
  format against other teams. The robot kit is reusable from year-to-year and is programmed using a variety 
