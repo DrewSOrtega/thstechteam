@@ -42,87 +42,95 @@ padding:7px;
 <div class="bodytext">
 <h1>History</h1>
 <h2>The start of something big</h2>
-<h3 style="text-align:justify;">In 2006 four boys with Stevie Viaene (former Tigard High School Computer Science and Information Technology 
-teacher) founded the THS Robotics Club. They started with a FVC (First Vex Challenge) robotics kit and 
-received their team number, 750. Their efforts to build a viable robot were not successful and they did 
-not compete in any FTC events that year.</h3>
+<h3 style="text-align:justify;">In 2006 four boys with Stevie Viaene (former THS Computer Science and Information Technology 
+teacher) conceived the THS Robotics Club. They started with a FVC (First Vex Challenge) robotics kit and 
+received their team number 750, which still competes today. Their efforts to build a viable robot were not successful and they did 
+not compete in any events that year.</h3>
 <!--h3 is used for the year-->
 <!--h4 is used for the heading of each paragraph-->
-<h3>2008-2009</h3><h4>Intel/Trailblazers Engineering Challenge</h4>
+<h3>2008-2009</h3>
+<h4>Intel/Trailblazers Engineering Challenge</h4>
 <div>
- In the fall of 2008 Stevie Viaene retired and Steve Fulton inherited her job and the title of adviser for
+ In the fall of 2008 Stevie Viaene retired and Steve Fulton stepped in as the adviser for
  the robotics team. The Tigard Robotics team gained eleven more students and two private sector engineers 
  as mentors, which enabled the team to take the next step and participate in Intel/Trailblazers Engineering
  Challenge. The challenge involved building a t-shirt launcher that would be used during the halftime of a 
- Blazer game. The team elected to build a remote operated vehicle using the parts and materials they had on
+ Blazer game. We elected to build a remote operated vehicle using the parts and materials they had on
  hand. Eventually they produced a single-barreled, pneumatic, tethered vehicle called "Long Tom" that 
  debuted on the floor of the Rose Garden. Tigard High School's first team did fantastic, being the only 
- team capable of shooting to the upper decks and were the only team with a remote operated vehicle.
+ team capable of shooting to the upper decks, and the only team with a remote operated vehicle.
 </div>
+
 <h4>FTC Season</h4>
+
 <div>When the FTC season approached they found that they had too many people to operate on a single 
 FTC robot. So the new Team 3058 and Team 750 worked through the winter in preparation for Tigard High 
-School's first competition.
-</div>
-<h3>2009-2010</h3><h4>FTC Season</h4>
-<div>
-After working hard all winter Tigard High had two teams that went to their initial FIRST event, a FIRST 
+School's first competition.</div>
+
+<h3>2009-2010</h3>
+
+<h4>FTC Season</h4>
+
+<div>After working hard all winter Tigard High had two teams that went to their initial FIRST event, a FIRST 
 Tech Challenge (FTC) tournament at OMSI. Team 750 scored well enough to advance to the state competition,
- but Team 3058 did not. At state, 750 won the Motivate Award, but was outscored in the finals.
-</div>
- <h4>T-Shirt Shooter</h4>
- <div>
- That spring they became the Tigard High School Robotics Team and they used their new-found 
- expertise to build a more robust chassis for our t-shirt launcher. The team was also interested in 
- expanding our launching capabilities so they studied the various types of self-propelled guns. The 
- students latched on to the idea of building a launcher modeled on the US Army Multiple Launch Rocket 
- System (MLRS). By May they had a new robot in the house. They called their contraption TWAIN, an acronym 
- for Technology Without An Interesting Name. TWAIN made his first appearance during the Intel/Beavers 
- Engineering Challenge in May. The Beavers were so impressed that they paid them a stipend of $400 for 
- three appearances during the summer, money they used to pay for their next group of FTC robots.</br>
- Oregon Game Project Challenge<br/>
- In 2010, members of the Tech Team were engaged in the Oregon Game Project Challenge. Three OGPC teams
- of 4-6 members each designed and programmed games that were judged by game and animation industry 
- professionals in Salem. The teams earned three awards:Programming Award 1st, Game Experience Award 1st, 
- and Game R&amp;D Award 2nd.Expansion of THS Robotics (addition of FRC)In the fall of 2009, the team expanded
+ but Team 3058 did not. At state, 750 won the Motivate Award, but was outscored in the finals.</div>
+ 
+  <div>In the fall of 2009, the team expanded
  to over forty students and six mentors with over half involved exclusively with FIRST robotics. They 
  purchased another FTC robot and Team 3965 was born. But the seniors were not satisfied with the small 
  scale robots any more. Having participated in two Intel Engineering Challenges and appeared in several 
- sporting venues, they felt they were ready to take on a new challenge: FIRST Robotics Competition (FRC)
- .They were awarded a NASA rookie grant for FRC and with other funds from fundraising activities Team 
- 3192 was established. With nine students and five coaches, they began. 
-</div>
-<h3>2010-2011</h3><h4>FTC</h4>
+ sporting venues, they felt they were ready to take on a new challenge: FIRST Robotics Competition (FRC).
+ They were awarded a NASA rookie grant for FRC and with other funds from fundraising activities Team 
+ 3192 was established. With nine students and five coaches.</div>
+ 
+ <h4>T-Shirt Shooter</h4>
+ 
+ <div>That spring they became the Tigard High School Robotics Team and they used their new-found 
+ expertise to build a more robust chassis for our t-shirt launcher. The team was also interested in 
+ expanding our launching capabilities so they studied the various types of self-propelled guns. The 
+ students latched on to the idea of building a launcher modeled on the US Army Multiple Launch Rocket 
+ System (MLRS). By May they had a new robot in the house. TWAIN, an acronym 
+ for Technology Without An Interesting Name was born. At his debut, TWAIN impressed the Beavers so much that they asked 
+ us to come back three more times, earning us a total of $400</div>
+ 
+ <h4>Oregon Game Project Challenge</h4>
+ 
+ <div>In 2010, members of the Tech Team were engaged in the Oregon Game Project Challenge. Three OGPC teams
+ of 4-6 members each designed and programmed games that were judged by game and animation industry 
+ professionals in Salem. The teams earned three awards:1st in programming, 1st in Game experience, 
+ and 2nd in the Game R&amp;D Award.</div>
+
+<h3>2010-2011</h3>
+
+<h4>FTC</h4>
+
 <div>
 Team 750, Gears in Motion, consisted of: Greg Collins(captain), Tyler Ross, Andrew Barnes, Tyler Woodward,
  and Casey McGregor. They earned  the Innovation Award for unique design at their first regional and 
- advanced to the semifinals at both regionals that they attended.
+ advanced to the semifinals at both regionals that they attended.</br>
 Team 4097, Data Virus, consisted of: MacKenzie Gray(captain), Margaret Lang, Aurora Seeber, Jennifer Deets,
  Laura Chapman, and Shannon Curb. They did not win any specific awards, but finished 3-1-1 in their second 
- regional and did remarkably well for being a rookie team.
+ regional and did remarkably well for being a rookie team.</br>
 Team 3965, Twisted Metal, consisted of: Thomas Woodward (captain), Joshua Zheng, Caleb Zheng, James Dolan,
  and Narin Luangrath. This team advanced to the state championships and finished 12th out of 24 teams at 
- the State Championship.
+ the State Championship.</br>
 Team 3058, The Jury Riggers, consisted of: Phillip Nguyen (captain), James Anderson, Christian Wong, and 
-Cliff Daniels. This team advanced to the state championships and finished 20th in state. FIRST Robotics
- Challenge (FRC)
+Cliff Daniels. This team advanced to the state championships and finished 20th in state.</br>
 FRC is an extremely intense engineering challenge in which teams are given six weeks to design, build, 
 and program a robot that can compete against other robots in an engineering challenge. Unfortunately,
  upon arriving at the competition our robot experienced multiple engineering casualties and had a 
  disappointing finish of 54 of 58. Still, team members learned about electrical systems, propulsion 
- drives, power distribution, marketing, and team management while solving the challenge.
- </div>
+ drives, power distribution, marketing, and team management while solving the challenge.</div>
+ 
  <h4>Oregon Game Project Challenge</h4>
  <div>Team 921, Nerdotransmitters, Addison Hoagland, Nikki Card, Kyle Arndt, 
  and Michael Yeo, brought home the trophy for Research and Development and were lauded for the "best 
- use of theme."Team 920, Gravity, Casey Gregory-Neuhauser and Evan Fairley, brought home the second 
+ use of theme.</br>
+ Team 920, Gravity, Casey Gregory-Neuhauser and Evan Fairley, brought home the second 
  place trophy in the teamwork category. This was especially impressive because the team captain with
- all of the documentation had failed to show up on the day of the competition.
+ all of the documentation had failed to show up on the day of the competition.</br>
 Team 919, TANSTAAFL, Holland Taylor, Alex Hoagland, Habib Fakih, David Astleford, and Andrew Barnes,
- brought home the Second Place Overall trophy and was .02 points away from taking first.Willamette 
- University Computer Programming Challenge Teams are given five hours to solve 15 computer programming 
- challenges. Our team was able to solve 4 problems with only one semester of computer programming and a 
- cumbersome Integrated Development Environment to work in. The top team only answered nine of the problems.
+ brought home the Second Place Overall trophy and was .02 points away from taking first.
 </div>
 <h3>2011-2012</h3>
 <h4>Girls Generation</h4>
