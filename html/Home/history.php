@@ -83,6 +83,9 @@ Tech Challenge (FTC) tournament at OMSI. Team 750 scored well enough to advance 
  They were awarded a NASA rookie grant for FRC and with other funds from fundraising activities Team 
  3192 was established. With nine students and five coaches.</div>
  
+ <div>In the spring of 2010, our girls went to girl generation, an event where only girls come and compete. Women from
+ around the state play last years game over again.</div>
+ 
  <h4>T-Shirt Shooter</h4>
  
  <div>That spring they became the Tigard High School Robotics Team and they used their new-found 
@@ -116,8 +119,8 @@ Team 3965, Twisted Metal, consisted of: Thomas Woodward (captain), Joshua Zheng,
  the State Championship.</br>
 Team 3058, The Jury Riggers, consisted of: Phillip Nguyen (captain), James Anderson, Christian Wong, and 
 Cliff Daniels. This team advanced to the state championships and finished 20th in state.</br>
-FRC is an extremely intense engineering challenge in which teams are given six weeks to design, build, 
-and program a robot that can compete against other robots in an engineering challenge. Unfortunately,
+
+ Unfortunately,
  upon arriving at the competition our robot experienced multiple engineering casualties and had a 
  disappointing finish of 54 of 58. Still, team members learned about electrical systems, propulsion 
  drives, power distribution, marketing, and team management while solving the challenge.</div>
@@ -135,52 +138,52 @@ Team 919, TANSTAAFL, Holland Taylor, Alex Hoagland, Habib Fakih, David Astleford
 <h3>2011-2012</h3>
 <h4>Girls Generation</h4>
 <div>
-Girls Generation Took TAZ to Catlin Gabel and let all the girls on the team have a go at driving it.  
-They all had fun and learned a lot. Hosting on January 28-29, Tigard High School hosted two days of
+ Hosting on January 28-29, Tigard High School hosted two days of
  robotics tournaments for 45 teams from 35 high schools in Oregon and Washington. The teams competed
- for invitations to the State FTC Championships on February 25-26. The team did an outstanding job 
- hosting the event, keeping everyone on task and smoothly executing the largest FTC Robotics Tournament
+ for invitations to the State FTC Championships on February 25-26. We ended up hosting the largest FTC Robotics Tournament
  in the state that year. Virtually all the members participated and several of the school's teaching staff
  including Ken Teschner (Judge), Nancy Mayer (Judge), Rick Holmes (Judge) and John Weber (Referee), joined
- in with 40 other volunteers and parents to make the event one to remember. They received dozens of emails
+ in with 40 other volunteers and parents to make the event one to remember. We received dozens of emails
  lauding the school facility and the people who made it happen: teams, coaches, administrators and school
- board members.The most memorable moment of the tournament occurred on Saturday morning. Two teams from 
+ board members. The most memorable moment of the tournament occurred on Saturday morning. Two teams from 
  central Oregon arrived without their coach who was at that moment getting a marrow transplant in Nashville,
  Tennessee. The team coach was one of the team members' mother and she had no robotics background at all.
- Neither team could even run their robots, much less pass inspection. A THS Tiger Team was formed including
- Philip Nguyen, Tyler Woodworth, Riley Deets, Kail McGrath and two THS coaches. They rebuilt their robots
- in two hours, helping both team pass inspection and get into the competition. One of the teams did so well 
+ Neither team could even run their robots, much less pass inspection. The "Tiger Team" was formed including
+ Philip Nguyen, Tyler Woodworth, Riley Deets, Kail McGrath and two THS coaches. They rebuilt the robots
+ in two hours, helping both team pass inspection and get into the competition. One of the Centeral Oregon teams did so well 
  they finished fifth in the seeding rounds and eventually won a ticket to the State Championships. As a
  reward for their efforts in putting on the THS State Qualifying Tournament, Teams 750 and 3058 earned
  automatic bids to the State Championship Tournament. 
  </div>
+ 
  <h4>FTC season</h4> 
+ 
  <div>The FTC robotics teams
  participated as competitors for the first time attending the Evergreen Aviation Qualifying Tournament on
  Saturday.  At their conclusion, 4097 had finished 8th, 3965 had finished 9th, 3058 11th and 750 12th of 
- the 24 teams present. Teams 4097 and 3965 each got a trophy, and everyone gained lots of experience. St 
- Helens HS Qualifying Tournament, February 18. At their conclusion, 4097 had finished 8th, 3965 had 
- finished 9th, 3058 11th and 750 12th of the 24 teams present. State FTC Championships, February 25-26,
- South Meadow Middle School. At their conclusion, 4097 had finished 10th, 3965 had finished 9th, 3058 11th
- and 750 12th of the 24 teams present. FRC On 23 March, we moved our latest FRC creation, Crouching 
- Tiger, into Memorial Coliseum with all his support equipment (including a cool minibot, Tiger Bit). 
+ the 24 teams present. Teams 4097 and 3965 each got a trophy, and everyone gained lots of experience.</div>
+ 
+ <h4>FRC</h4> 
+ 
+ On 23 March, we moved our latest FRC creation, Crouching 
+ <div>Tiger, into Memorial Coliseum with all his support equipment (including a cool minibot, Tiger Bit). 
  We sadly suffered multiple engineering casualties to the robot that severely limited our ability to
- score and therefore compete. We finished a dismal 2-7, placing 54 of 58. . Taking on the challenge, 
+ score and therefore compete. We finished a dismal 2-7, placing 54 of 58. Taking on the challenge, 
  designing, prototyping, building, programming, testing and competing with the robot was the defining
- goal. We all grew from the experience.
- </div>
+ goal. We all grew from the experience.</div>
+ 
  <h4>Bunnybots</h4>
- <div>
- In one match, we scored 10 of the 14 points our alliance scored.
- </div>
+ 
+ <div>In one match, we scored 10 of the 14 points our alliance scored.</div>
+ 
  <h4>Oregon Game Project Challenge</h4>
- <div>
- Team 920 and Team 921, headed to the 
- competition. Only Team 921 came home with the professionalism award.
- </div>
+ 
+ <div>Team 920 and Team 921, headed to the 
+ competition, team 921 came home with the professionalism award.</div>
+ 
  <h4>SeaPerch</h4>
  <div>
- The team of robotic enthusiasts wanted to expand their understanding of robots. So they dived into SeaPerch and formed nine 
+ The students wanted to expand their understanding of robots. So they dived into SeaPerch and formed nine 
  teams, each being a three-person group. Since they were the only group in Oregon, except for INST Bruce
  Conway, that were participating in SeaPerch; they decided to host their own event. Luckily Evergreen
  Aviation &amp; Space Museum - Waterpark, provided their facilities for them to use.
