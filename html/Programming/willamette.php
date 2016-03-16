@@ -32,13 +32,13 @@ img{
 <br>
 <h2>Roster</h2>
 <ul>
+  <li><b>Varsity:</b></li>
   <li>Parker Chiapuzio (Team Captain)</li>
-  <li>Kai Pinckard</li>
-  <li>Drew Ortega</li>
-  <li>Zander Eisenhower</li>
   <li>Phan Thanh Minh Duc</li>
-  <li>Tabor Holly</li>
   <li>Delan Huang</li>
+  <li> </li>
+  <li><b>JV:</b></li>
+  <li>Kai Pinckard</li>
   <li>Huang Nguyen</li>
   <li><b>Coach: David Burnette</b></li>
 </ul>
