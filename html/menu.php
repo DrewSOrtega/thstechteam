@@ -53,5 +53,6 @@
 <font size="+2" color="gold">Oregon Department of Education - $7000&nbsp;&nbsp;</font>
 <font size="+2" color="gold">Mentor Graphics Association - $5000&nbsp;&nbsp;</font> 
 <font size="+2" color="gold">KATU and Sinclair Broadcast Group - $3600&nbsp;&nbsp;</font>
+<font size="+2" color="gold">Western Precision Products - $2500&nbsp;&nbsp;</font>
 <font size="+2" color="bronze">THS Parent Support Organization (PSO) - $1000&nbsp;&nbsp;</font>
 </marquee>
