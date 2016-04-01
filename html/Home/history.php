@@ -217,7 +217,6 @@ We fielded four teams this year<br>
 <b>Coaches</b> Steve Fulton, Denney Cole, Russ Ellavsky, Matt Gould, Chris Mooney, Scott Webster
  </div>
 <br/><br/>
-<h3>Years 2014-2015</h3>
 <h3>Years 2015-2016</h3>
 We fielded four teams this year<br>
 <b>Team 750:</b> Darby Cox, Cameron Doughty, Ethan Gazin, Ryan Hardinge, Julian Lethbridge, McGuire Meek, Jesus Mendoza, Cao-duy Nguyen, Hoang Nguyen, Daniel Smotkin, Tyler Walker<br>
