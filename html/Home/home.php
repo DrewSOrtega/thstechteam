@@ -28,58 +28,21 @@ img{
 <div class="maint"><div class="bodytext">
 	<div class="maint-left">
 		<h2 align="left">News:</h2>
-		<p><h3>FRC WILSONVILLE EVENT...</h3></p>
+		The Philomath FRC Event could have gone better. 
 
-		<p>FRC Team 3192 left for Wilsonville High School to compete in our first of three FRC events for the 2016 season.</p>
+<p>Our FRC robot went through inspection with minimal difficulty and we actually had a few minutes to practice on the event apparatus before we went onto the field.  On the practice field, we lifted as designed and things were looking good. However, the robot continued to be recalcitrant.  We would clear one hurdle only to see our power drop to nothing when we sent signals to the bot.  Our turning radius was huge and the new pads we put on the treads to overcome the issue with the steel and plexi-glass obstacles turned into a debacle as little pads suddenly littered the playing field.  They were literally scraped off the treads by the metallic edges of the obstacles.  New securing methods were employed but that did not work either.  So much for improved traction... </p>
 
-		<p>We arrived on station in good order, completed admin check-in without issue and immediately got the weigh in and measurements completed.  The pit went together quickly and efficiently and it was not long before the inspectors arrived to ruin our day.</p>
+<p>When we did get over the obstacles, we simply did not have the power to drive the robot to a given destination no matter how much we tried and corrected issues between matches.</p> 
 
-		<p>First they determined that our arm we used to deliver our hook and line assembly to the pull-up bar exceeded the 15" outside the perimeter rule.  Despite several demonstrations that proved the "violation" was transitory as the arm deployed, the inspectors and head referee agreed and we found that we could not use our primary scoring device before we has even entered the field of play. </p>
+<p>In twelve matches, we attempted to deploy our lifting mechanism once.  To no avail as the hook fell off prior to securing itself on the lifting bar.</p>
 
-		<p>While that was going on, we found that our communicator did not have the latest firmware upload and that our control station software was not the latest version.  More time lost as we loaded the machines with the latest and greatest. </p>
+<p>At the end of the seeding rounds, we stood at 3-9, ranked 28 of 30 and we were not selected for an alliance. </p>
 
-		<p>We finally got the machine software up to date but the evening was coming to a close so we had to shut down and head for home.  We would re-engage in the morning.</p>
+<p>At least we had an early day of it. We packed up the truck and headed home. </p>
 
-		<p>At 0815 Friday, the doors were opened and we rushed into begin work on the machine again.  Another software upgrade (seems they were a series, requiring sequential loads) was required and more time clicked off the clock.  The solutions we had for the arm did not solve the perimeter issue so we had to work on correcting the problem in between matches.  The software load finally finished and we thought we were ready to go when we found that the comm devise on the machine would not talk to our driver station.  We replaced the comm devise and established communications.  We then tried to download our software load to the RoboRIO, the brains of the robot, only to find that it was not working.  Three laptops later, we determined that the $450 piece of gear was not going to play and so we began the long task of replacing it with our backup.  This task was exceedingly tedious, requiring us to replace the RoboRIO and associated mounting gear, re-wire all the motors, servos, cameras and controllers on the machine, download the new code, test each of the components on the machine and then hope it all worked to specification on the field.  Unfortunately, by the time all this was done, we had already been disqualified from the first round.</p> 
+<p>The problems with the robot still have not been solved.  We have ideas but not the time to correct any of the issues we think we may have.  Surprisingly, we are ranked 120 of 152 in the PNW District according to FIRST PNW.  Unfortunately, a closer examination shows that we were awarded ten ranking points we did not earn.  We should actually be ranked 137 of 152.  We were 138 of 153 last year.  No measurable improvement...  Nor will we be attending the PNW Regional this year.  We need to finish in 60's for a shot at this competition.</p>
 
-		<p>We raced the machine out to the second round, only to find that it was not fully tested yet.  It move a couple of feet and then decided to rest for the remainder of the match.  Now we were 0-2.</p>
-
-		<p>In Match 3, we were more confident as we eliminated each of the bugs noted earlier.  The match started and the robot ran in circles.  Seems we had lost control of the left side of the robot.  0-3.  When we returned to the pit, we found that the USB connector for the joystick controller had disengaged.  Head slaps all around...</p>
-
-		<p>In Match 4, we managed to drive about but found that our machine could not defeat the obstacles as easily as it has in practice.  Our mockups were made of wood.  The field elements were made of steel and Plexiglas, giving us a new problem... our treads slipped.  Something else for the drive team to work on...  0-4.</p>
-
-		<p>In Match 5 we actually seemed to find our stride, defeating two elements and contributing to our alliance score.  Our alliance was outscored 62-48 but at least we weren't "that robot" that nobody could count on.</p>
-
-		<p>In Match 6 we came closer still, getting our autonomous program running and actually helping one of our alliance partners by pushing them onto a scoring element they were sliding down.  We lost again, 57-55.  Getting better but still on the wrong end of the score.  0-6.</p>
-
-		<p>In Match 7, our alliance earned a tie, 45-45.  0-6-1!</p>
-
-		<p>In Match 8, the last match of the day, our team won a resounding victory, 78-35.  1-6-1!  It helped that we were allied with two of the top ten teams in the tournament.  We finished Friday ranked 35 of 36. </p>
-
-		<p>On Saturday morning, we made adjustments to the chassis and drive system to facilitate our transit over the more difficult obstacles.  This would also make our autonomous program more effective and hopefully, make us a more attractive team for alliance selection.   And it seemed to work...</p>
-
-		<p>In Match 9, we won.  In Match 10, we won.  In Match 11, we lost. In Match 12, we won.  We finished the seeding rounds 4,-7-1, 26 of 36.  After an 0-6 start, we had finished 4-1-1. We had overcome a myriad of engineering problems in a short amount of time and acquitted ourselves well.  Not bad... but would it be enough for us to get noticed and selected to an Elimination Round Alliance?</p>
-
-		<p>The answer proved to be no.  We joined 12 other teams that did not advance.  Our tournament was over.</p>
-
-		<p>So now we begin the process of improving our product in the limited time provided in the rules.  Based on the robot's performance on the field, there were several corrections that need to be made to our communications, our autonomous programming, our scoring elements and our driver training.  We have until our next event,  24-26MAR at Philomath High School to get it done. </p>
-
-		<p>On an interesting note, Representative Susan Bonomici dropped by with one of her staffers to see our team.  She was intending to visit us at THS but when she heard about the tourney, she decided to come there instead.  Channel 12 and Channel 8 carried the event and our team was filmed with the congresswoman as we explained our machine and program.  Perhaps you saw us on the Friday evening or Saturday morning news...</p>
-
-		<p>Representing THS this weekend were:  Tiffany Chu, Luong Hoang, Jorden Holland, Jason Holm, Jonathan Le, Abbey Lewis, Austin Liu, Kenny Luong, Austin McKee, Leon Nguyen, Sameer Raviprakash, Ian Roberts and Cole Swanson.</p>
-
-		<p><h3>WILLAMETTE UNIVERSITY COMPUTER PROGRAMMING CONTEST</h3></p>
-		<p>While the robots were rumbling, our Computer Programming Team was competing with the best high school programmers in the state for state bragging rights and one of the gaudiest trophies ever designed. </p>
-
-		<p>The contest calls for a team of 2-4 members, using one computer, one keyboard and one mouse without any internet access, to code solutions to several CS problems over a five hour period. The teams are locked in a ballroom and served pizza and sodas.  Each correct solution earns the team ten points.  Coding the correct solution first earns the team an bonus point. Ties are broken by the judges who determine which team submits the "most elegant" solution- gets the job done in the shortest code possible. At the end of the day, the team that answers the most problems correctly, wins. </p>
-
-		<p>Fifteen schools registered teams to compete.  THS fielded a varsity and a JV team.</p>
-
-		<p>Our varsity team of Parker Chiapuzio, Delan Hoang and Mihn Duc Phan, completed the contest with six correct solutions which earned them a fourth place finish with 60 points.  There was a two way tie for second/third at 80pts and first place went to the school with 96pts- nine correct solutions, six bonus points for being the first one done. </p>
-
-		<p>Our JV team included Kai Pinckard and Hoang Nguyen.  They were not considered in the final standings but they did correctly solve five of the problems for 50 points.  They will serve as the core of our team next year!</p>
-
-		<p>Only the first three places brought home trophies so we were shut out of the hardware but this is our best finish ever.  A great foundation to continue to build on.  </p>
+<p>31MAR-02APR we are scheduled to participate in the FRC Oregon City Event.</p>
 
 	</div>
 	<div class="maint-right">
